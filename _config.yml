@@ -20,10 +20,10 @@ timezone:
 
 title: Nasz Society # the main title
 
-tagline: Welcom to my world. # it will display as the sub-title
+tagline: Welcome to my tiny blog. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Tiny blog of little developer.
+  A fresh look at a little Nasz's blog, Posting and sharing my coding journey with various projects.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://naruebet.dev"
@@ -42,7 +42,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/naruebet # change to your twitter homepage
-    - https://github.com/naze # change to your github homepage
+    - https://github.com/nasz # change to your github homepage
     # Uncomment below to add more social links
     - https://www.facebook.com/naruebet
     - https://www.linkedin.com/in/naruebet
