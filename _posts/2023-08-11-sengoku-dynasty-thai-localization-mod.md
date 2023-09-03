@@ -15,12 +15,12 @@ tags: [Game, Mod, Unreal]
 
 | File(s)             | Google Translate  | Localized   | Untouched(Eng) |
 |---------------------|:------------------|:------------|:---------------|
-| UI                  | 0.07%             | 96.86%      | 3.07%          |
-| Dialogue            | 38.52%            | 2.05%       | 59.43%         |
+| UI                  | 0%                | 2680(96.79%)| 89{3.21%}      |
+| Dialogue            | 38.52%            | 189(2.05%)  | 5487(59.43%)   |
 
 ## Link to project
 
-<https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod> [Download](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/releases/latest)
+[Download](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/releases/latest) <https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod> 
 
 ## Credit
 
