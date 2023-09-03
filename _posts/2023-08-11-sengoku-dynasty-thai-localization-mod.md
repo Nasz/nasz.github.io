@@ -6,7 +6,7 @@ categories: [Localization]
 tags: [Game, Mod, Unreal]
 ---
 
-ม็อดภาษาไทยสำหรับเกม เซ็งโงกุ ไดนาสตี้ (ความสมบูรณ์ 32.04%) `*โปรเจคอยู่ระหว่างการจัดทำ` 
+ม็อดภาษาไทยสำหรับเกม เซ็งโงกุ ไดนาสตี้ (ความสมบูรณ์ 32.06%) `*โปรเจคอยู่ระหว่างการจัดทำ` 
 **This mod for Early Access Game version 0.1.2.0 only**
 
 ![image](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/assets/384751/6ca9ef73-8ea9-40fb-afd8-edba379ef6a5)
@@ -15,8 +15,8 @@ tags: [Game, Mod, Unreal]
 
 | File(s)             | Google Translate  | Localized   | Untouched(Eng) |
 |---------------------|:------------------|:------------|:---------------|
-| UI                  | 0%                | 2680(96.79%)| 89(3.21%)      |
-| Dialogue            | 38.52%            | 189(2.05%)  | 5487(59.43%)   |
+| UI                  | 0%                | 2682(96.86%)| 87(3.14%)      |
+| Dialogue            | 3556(38.52%)      | 189(2.05%)  | 5481(59.41%)   |
 
 ## Link to project
 
