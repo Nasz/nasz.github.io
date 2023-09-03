@@ -20,7 +20,7 @@ tags: [Game, Mod, Unreal]
 
 ## Link to project
 
-[Download](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/releases/latest) <https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod> 
+ <https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod> [Download](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/releases/latest)
 
 ## Credit
 
