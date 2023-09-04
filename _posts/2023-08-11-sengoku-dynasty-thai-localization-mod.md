@@ -12,6 +12,7 @@ tags: [Game, Mod, Unreal]
 `*คำแนะนำ` หากคุณได้ดำเนินการอัปเดทเกมเป็นเวอร์ชันใหม่ (เวอร์ชันที่สูงกว่าที่ไฟล์ม็อดรองรับ) แนะนำทำการถอนการติดตั้งออกก่อน เพื่อไม่ให้กระทบต่อกลศาสตร์ของตัวเกม
 
 ![image](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/assets/384751/6ca9ef73-8ea9-40fb-afd8-edba379ef6a5)
+![image](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/assets/384751/147a48df-50a3-40ba-aaf5-08d427764627)
 
 ## Progression
 
@@ -36,6 +37,11 @@ tags: [Game, Mod, Unreal]
 
 ## โครงการม็อดไม่แสวงหาผลกำไรขอขอบคุณ
 + Sengoku Dynasty: [Steam](https://store.steampowered.com/app/1702010/)
+<<<<<<< HEAD
 + Sriracha (OFL) โดย [คัดสรรดีมาก](https://www.cadsondemak.com/)
 + Noto Sans Thai (OFL) โดย [กูเกิล](https://fonts.google.com/noto)
 + Droid Sans Thai (Apache 2.0) โดย [Steve Matterson](https://en.wikipedia.org/wiki/Droid_(typeface))
+=======
++ Font: ศรีราชา และ Noto Sans Thai โดย [คัดสรรดีมาก](https://www.cadsondemak.com/)
++ Font: Noto Sans โดย [กูเกิล](https://fonts.google.com/noto)
+>>>>>>> 5225fb053098e9439a128d389690311863f54b78
