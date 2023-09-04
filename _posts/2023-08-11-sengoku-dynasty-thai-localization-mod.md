@@ -37,11 +37,6 @@ tags: [Game, Mod, Unreal]
 
 ## โครงการม็อดไม่แสวงหาผลกำไรขอขอบคุณ
 + Sengoku Dynasty: [Steam](https://store.steampowered.com/app/1702010/)
-<<<<<<< HEAD
 + Sriracha (OFL) โดย [คัดสรรดีมาก](https://www.cadsondemak.com/)
 + Noto Sans Thai (OFL) โดย [กูเกิล](https://fonts.google.com/noto)
 + Droid Sans Thai (Apache 2.0) โดย [Steve Matterson](https://en.wikipedia.org/wiki/Droid_(typeface))
-=======
-+ Font: ศรีราชา และ Noto Sans Thai โดย [คัดสรรดีมาก](https://www.cadsondemak.com/)
-+ Font: Noto Sans โดย [กูเกิล](https://fonts.google.com/noto)
->>>>>>> 5225fb053098e9439a128d389690311863f54b78
