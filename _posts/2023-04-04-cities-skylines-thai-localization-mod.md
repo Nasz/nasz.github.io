@@ -55,7 +55,7 @@ tags: [Game, Mod, Unity]
 สำหรับไฟล์ Font แนะนำให้ใช้ [Noto Sans Thai CS](https://github.com/Nasz/Cities-Skylines-Thai-Localization-Mod/releases/download/v1.16/NotoSansThaiCS-Regular.ttf) กับ [Sarabun CS](https://github.com/Nasz/Cities-Skylines-Thai-Localization-Mod/releases/download/v1.16/Sarabun-CS.ttf)
 สิ่งสำคัญคือ ตอนติดตั้งต้องฟอนต์คลิ๊กขวาแล้วเลือก Install to all user ด้วยนะครับ ไม่งั้นตัว Font Changer จะนำฟอนต์ไปใช้กับ Unity Engine ไม่ได้
 
-![Screenshot 2023-04-01 02 22 31](https://user-images.githubusercontent.com/384751/229216738-e866bb95-594f-4250-a75c-f13e14b17530.png)
+![image](https://user-images.githubusercontent.com/384751/230114452-8bbc7978-1ec9-4439-a744-be9fb5f44ba1.png)
 
 ขอให้สนุกกับการเล่นเกม Cities: Skylines 
 
