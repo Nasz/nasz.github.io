@@ -30,14 +30,10 @@ tags: [Game, Mod, Unreal]
 `*ไฟล์ม็อดเวอร์ชันล่าสุดจะแสดงผลภาษาอังกฤษในส่วนที่ยังไม่ได้แปลปะปนกันไป (เปลี่ยนจากเวอร์ชันก่อนหน้าที่แสดงคำแปลจากกูเกิล)`
 
 ## วิธีติดตั้ง (Install)
-สร้างโฟลเดอร์ `~mods`{: .filepath} ไว้ใน 
-
-`{SteamLibrary}\steamapps\common\Sengoku Dynasty\SengokuDynasty\Content\Paks`{: .filepath} แล้วนำไฟล์ `zSDThai_P.pak`{: .filepath} ไปวางใว้ในนั้น
+สร้างโฟลเดอร์ `~mods`{: .filepath} ไว้ใน `{SteamLibrary}\steamapps\common\Sengoku Dynasty\SengokuDynasty\Content\Paks`{: .filepath} แล้วนำไฟล์ `zSDThai_P.pak`{: .filepath} ไปวางใว้ในนั้น
 
 ## วิธีถอนการติดตั้ง (Uninstall)
-ลบไฟล์ `zSDThai_P.pak`{: .filepath} ออกจากโฟลเดอร์
-
-`{SteamLibrary}\steamapps\common\Sengoku Dynasty\SengokuDynasty\Content\Paks\~mods`{: .filepath}
+ลบไฟล์ `zSDThai_P.pak`{: .filepath} ออกจากโฟลเดอร์ `{SteamLibrary}\steamapps\common\Sengoku Dynasty\SengokuDynasty\Content\Paks\~mods`{: .filepath}
 
 ## ขอขอบคุณ
 + Sengoku Dynasty: [Steam](https://store.steampowered.com/app/1702010/)
