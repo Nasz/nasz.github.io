@@ -22,15 +22,15 @@ tags: [Game, Mod, Unity]
 | UI                  | 0(0%)        | 16863(100%) | 0(0%)          | 16863 |
 
 ## แปลโดย 
-- Bammcool
-- N7C
-- NogginTime
-- PanlopPalms
-- Simscolony
-- Sornzilla
+- [Bammcool](https://steamcommunity.com/id/bammcool2546)
+- [N7C](https://steamcommunity.com/id/n7c_th)
+- [NogginTime](https://steamcommunity.com/id/NogginNS)
+- [PanlopPalms](https://steamcommunity.com/id/armsplams)
+- [Simscolony](https://steamcommunity.com/id/animenagi)
+- [Sornzilla](https://steamcommunity.com/id/sornzillatte)
 
 ## ลิงก์ไปยังโปรเจค
-https://github.com/Nasz/Cities-Skylines-Thai-Localization-Mod
+<https://github.com/Nasz/Cities-Skylines-Thai-Localization-Mod>
 
 ## ดาวน์โหลด
 สำหรับคนที่เล่นบน Steam ให้กด Subscribe ที่ [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2920706399) เวลาม็อดอัปเดตตัวสตีมจะทำการอัปเดตไฟล์ม็อดใหม่ให้คุณอัตโนมัติ
@@ -38,13 +38,13 @@ https://github.com/Nasz/Cities-Skylines-Thai-Localization-Mod
 สำหรับคนที่เล่นบน EPIC ให้ดาวน์โหลดไฟล์ [Mod_Lang_TH.dll](https://github.com/Nasz/Cities-Skylines-Mod_Lang_TH/releases/latest) ไปติดตั้งเอง
 
 ## วิธีติดตั้ง (Install)
-* สำหรับผู้ใช้งาน Steam Workshop ไม่ต้องทำขั้นตอนต่อไปนี้
+`สำหรับผู้ใช้งาน Steam Workshop ไม่ต้องทำขั้นตอนต่อไปนี้`
 1. สร้างโฟลเดอร์ชื่อ `"Mod_Lang_TH"`{: .filepath} ขึ้นใน โฟลเดอร์ของเกม `"{SteamLibrary}\steamapps\common\Cities_Skylines\Files\Mods"`{: .filepath}
 2. นำไฟล์ `"Mod_Lang_TH.dll"`{: .filepath} ไปวางใว้ในนั้น
-3. เปิดเกม `*หากก่อนหน้านี้คุณยังไม่เคยลงม็อดภาษาไทยมาก่อน เกมจะเปลี่ยนเป็นภาษาไทยโดยอัตโนมัติ`
+3. เปิดเกม `หากก่อนหน้านี้คุณยังไม่เคยลงม็อดภาษาไทยมาก่อน เกมจะเปลี่ยนเป็นภาษาไทยโดยอัตโนมัติ`
 
 ## วิธีถอนการติดตั้ง (Uninstall)
-* สำหรับผู้ใช้งาน Steam Workshop ให้กด Unsubscribe ก่อนแล้วข้ามไปทำข้อ 2 เลย
+`สำหรับผู้ใช้งาน Steam Workshop ให้กด Unsubscribe ก่อนแล้วข้ามไปทำข้อ 2 เลย`
 1. ลบไฟล์ `"Mod_Lang_TH.dll"`{: .filepath} ในโฟลเดอร์ `"{SteamLibrary}\steamapps\common\Cities_Skylines\Files\Mods"`{: .filepath} ออก
 2. ลบไฟล์ `"th.locale"`{: .filepath} ในโฟลเดอร์ `"{SteamLibrary}\steamapps\common\Cities_Skylines\Files\Locale"`{: .filepath} ออก
 
