@@ -9,7 +9,8 @@ tags: [Game, Mod, Unreal]
 ม็อดภาษาไทยสำหรับเกม เซ็งโงกุ ไดนาสตี้ (ความสมบูรณ์ 32.06%) `*โปรเจคอยู่ระหว่างการจัดทำ` 
 **This mod for Early Access Game version 0.1.2.0 only** 
 
-`*คำแนะนำ` หากคุณได้ดำเนินการอัปเดทเกมเป็นเวอร์ชันใหม่ (เวอร์ชันที่สูงกว่าที่ไฟล์ม็อดรองรับ) แนะนำทำการถอนการติดตั้งออกก่อน เพื่อไม่ให้กระทบต่อกลศาสตร์ของตัวเกม
+> `*คำแนะนำ` หากคุณได้ดำเนินการอัปเดทเกมเป็นเวอร์ชันใหม่ (เวอร์ชันที่สูงกว่าที่ไฟล์ม็อดรองรับ) แนะนำทำการถอนการติดตั้งออกก่อน เพื่อไม่ให้กระทบต่อกลศาสตร์ของตัวเกม
+{: .prompt-info }
 
 ![image](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/assets/384751/6ca9ef73-8ea9-40fb-afd8-edba379ef6a5)
 ![image](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/assets/384751/147a48df-50a3-40ba-aaf5-08d427764627)
@@ -29,11 +30,13 @@ tags: [Game, Mod, Unreal]
 `*ไฟล์ม็อดเวอร์ชันล่าสุดจะแสดงผลภาษาอังกฤษในส่วนที่ยังไม่ได้แปลปะปนกันไป (เปลี่ยนจากเวอร์ชันก่อนหน้าที่แสดงคำแปลจากกูเกิล)`
 
 ## วิธีติดตั้ง (Install)
-สร้างโฟลเดอร์ ~mods ไว้ใน {SteamLibrary}\steamapps\common\Sengoku Dynasty\SengokuDynasty\Content\Paks
-นำไฟล์ zSDThai_P.pak ไปวางใว้ในนั้น
+สร้างโฟลเดอร์ ~mods ไว้ใน 
+`{SteamLibrary}\steamapps\common\Sengoku Dynasty\SengokuDynasty\Content\Paks`{: .filepath}
+แล้วนำไฟล์ zSDThai_P.pak ไปวางใว้ในนั้น
 
 ## วิธีถอนการติดตั้ง (Uninstall)
-ลบไฟล์ zSDThai_P.pak ใน {SteamLibrary}\steamapps\common\Sengoku Dynasty\SengokuDynasty\Content\Paks\\~mods ออก
+ลบไฟล์ zSDThai_P.pak ออกจากโฟลเดอร์
+`{SteamLibrary}\steamapps\common\Sengoku Dynasty\SengokuDynasty\Content\Paks\\~mods`{: .filepath}
 
 ## โครงการม็อดไม่แสวงหาผลกำไรขอขอบคุณ
 + Sengoku Dynasty: [Steam](https://store.steampowered.com/app/1702010/)
