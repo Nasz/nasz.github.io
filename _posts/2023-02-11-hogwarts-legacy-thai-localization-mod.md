@@ -9,7 +9,7 @@ tags: [Game, Mod, Unreal, Community]
 ม็อดภาษาไทยสำหรับเกม Hogwarts Legacy ภาษาไทย 77% เวอร์ชันคอมมูนิตี้ 
 
 - ทีมคอมมูนิตี้ยังไม่มีโครงการสำหรับทำพากษ์เสียงภาษาไทย (เนื่องจากยังแปลกันไม่เสร็จ)
-- Font ของที่นี่อาจจะไม่เหมือนที่แจกบน Nexusmod
+- Font เวอร์ชันที่แจกใน Github อาจจะไม่เหมือนที่แจกบน Nexusmod
 - เวอร์ชันที่แจกใน Github จะไม่มีการดัดแปลงป้าย
 - ดาวน์โหลดป้ายภาษาไทยได้ที่ <https://www.nexusmods.com/hogwartslegacy/mods/1409>
 
@@ -56,10 +56,13 @@ tags: [Game, Mod, Unreal, Community]
 ดาวน์โหลดได้ที่ <https://www.nexusmods.com/hogwartslegacy/mods/1409>
 
 ## วิธีติดตั้ง (Install)
-สร้างโฟลเดอร์ `~mods`{: .filepath} ไว้ใน `{SteamLibrary}\steamapps\common\Sengoku Dynasty\SengokuDynasty\Content\Paks`{: .filepath} แล้วนำไฟล์ `zHWThai_P.pak`{: .filepath} ไปวางใว้ในนั้น
+สร้างโฟลเดอร์ `~mods`{: .filepath} ไว้ใน `{SteamLibrary}\steamapps\common\Hogwarts Legacy\Phoenix\Content\Paks`{: .filepath} แล้วนำไฟล์ `zHWThai_P.pak`{: .filepath} ไปวางใว้ในนั้น
 
 ## วิธีถอนการติดตั้ง (Uninstall)
-ลบไฟล์ `zHWThai_P.pak`{: .filepath} ออกจากโฟลเดอร์ `{SteamLibrary}\steamapps\common\Sengoku Dynasty\SengokuDynasty\Content\Paks\~mods`{: .filepath}
+ลบไฟล์ `zHWThai_P.pak`{: .filepath} ออกจากโฟลเดอร์ `{SteamLibrary}\steamapps\common\Hogwarts Legacy\Phoenix\Content\Paks\~mods`{: .filepath}
+
+## Thank
+[lordvoldem0rt](https://github.com/lordvoldem0rt)
 
 ###### ขอบคุณภาพกราฟฟิกโลโก้สวย ๆ
 + [Pingoriginal](https://www.facebook.com/pingpongoriginal) คนทำภาพ #Mugglethai
@@ -74,6 +77,3 @@ tags: [Game, Mod, Unreal, Community]
   แฟนเพจผู้เชี่ยวชาญด้าน Wizarding World และเว็บข่าว Muggle-V
 + [Mugglethai](https://www.facebook.com/mugglethai.mt)
   Potterhead of Thailand since 2002 🇹🇭 #Mugglethai #มักเกิ้ลไทย
-
-## Thank
-[lordvoldem0rt](https://github.com/lordvoldem0rt)
