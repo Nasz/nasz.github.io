@@ -7,12 +7,12 @@ tags: [Game, Mod, Unity]
 ---
 
 ม็อดภาษาไทยสำหรับเกม Cities: Skylines ภาษาไทย 100%
-อัปเดตล่าสุดเวอร์ชัน 1.17.1-f2 Treasure Hunt ออกล่าสมบัติเจี๊ยบเปอร์
+อัปเดตล่าสุดเวอร์ชัน 1.17.1-f2 Treasure Hunt ออกล่าสมบัติไปกับเจี๊ยบเปอร์
 
-![image](https://github.com/Nasz/Cities-Skylines-Mod_Lang_TH/assets/384751/4af976af-b2d1-4f23-a51d-d47f62341b66)
-
-![image](https://user-images.githubusercontent.com/384751/228914512-11ed46fa-4a13-46f0-8a9f-07899138f16f.png)
-
+![image](https://github.com/Nasz/Cities-Skylines-Mod_Lang_TH/assets/384751/4af976af-b2d1-4f23-a51d-d47f62341b66){: width="790" height="477" }
+_หน้าเมนูหลักเมื่อใช้งานคู่กับม็อด Font Changer_
+![image](https://user-images.githubusercontent.com/384751/228914512-11ed46fa-4a13-46f0-8a9f-07899138f16f.png){: width="790" height="477" }
+_หน้าปรับตัวเลือกตั้งค่าภาษาของเกม_
 ม็อดนี้ใช้หลักการวางไฟล์ th.locale ไว้ในตัวเกม ดังนั้น หากเมื่อไหร่คุณเบื่อภาษาไทย ก็สามารถเปลี่ยนกลับไปใช้ภาษาอื่นได้โดยไม่มีผลกระทบได ๆ ต่อตัวเกม
 
 ## ความคืบหน้า
