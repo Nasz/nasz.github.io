@@ -1,7 +1,7 @@
 ---
 title: Sengoky Dynasty Thai Localization Mod
 author: nasz
-date: 2019-08-11 00:34:00 +0700
+date: 2023-08-11 00:34:00 +0700
 categories: [Localization]
 tags: [Game, Mod, Unreal]
 ---
