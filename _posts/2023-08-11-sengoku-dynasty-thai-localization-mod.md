@@ -10,6 +10,9 @@ tags: [Game, Mod, Unreal]
 
 **This mod for Early Access Game version 0.1.2.0 only** 
 
+[![GitHub all releases](https://img.shields.io/github/downloads/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/total?label=Total%20Downloads)](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/releases/latest)
+
+
 > `คำแนะนำ` หากคุณได้ดำเนินการอัปเดตเกมเป็นเวอร์ชันใหม่ (เวอร์ชันที่สูงกว่า 0.1.2.0) แนะนำทำการถอนการติดตั้งออกก่อนเข้าเล่นเกม เพื่อไม่ให้กระทบต่อกลศาสตร์ของตัวเกม
 {: .prompt-info }
 
@@ -18,10 +21,10 @@ tags: [Game, Mod, Unreal]
 
 ## ความคืบหน้า
 
-| File(s)             | English      | Localized   | Untouched(EN)  | TOTAL |
-|---------------------|:-------------|:------------|:---------------|:------|
-| UI                  | 0(0%)        | 2682(96.86%)| 87(3.14%)      | 2769  |
-| Dialogue            | 3210(34.77%) | 535(5.80%)  | 5487(59.43%)   | 9232  |
+| File(s)             | English      | ไทย (Localized) | Untouched      | TOTAL |
+|---------------------|:-------------|:----------------|:---------------|:------|
+| UI                  | 0(0%)        | 2682(96.86%)    | 87(3.14%)      | 2769  |
+| Dialogue            | 3210(34.77%) | 535(5.80%)      | 5487(59.43%)   | 9232  |
 
 ## ลิงก์ไปยังโปรเจค
  <https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod> 
@@ -30,10 +33,10 @@ tags: [Game, Mod, Unreal]
 [ดาวน์โหลดบิลท์ล่าสุด](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/releases/latest)
 `ไฟล์ม็อดบิลท์ล่าสุดจะแสดงผลภาษาอังกฤษในส่วนที่ยังไม่ได้แปลปะปนกันไป (เปลี่ยนจากบิลท์ก่อนหน้าที่แสดงคำแปลจากกูเกิล)`
 
-## วิธีติดตั้ง (Install)
+## วิธีติดตั้ง
 สร้างโฟลเดอร์ `~mods`{: .filepath} ไว้ใน `{SteamLibrary}\steamapps\common\Sengoku Dynasty\SengokuDynasty\Content\Paks`{: .filepath} แล้วนำไฟล์ `zSDThai_P.pak`{: .filepath} ไปวางใว้ในนั้น
 
-## วิธีถอนการติดตั้ง (Uninstall)
+## วิธีถอนการติดตั้ง
 ลบไฟล์ `zSDThai_P.pak`{: .filepath} ออกจากโฟลเดอร์ `{SteamLibrary}\steamapps\common\Sengoku Dynasty\SengokuDynasty\Content\Paks\~mods`{: .filepath}
 
 ## ขอขอบคุณ

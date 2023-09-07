@@ -8,11 +8,17 @@ tags: [PHP, CMS, Thai, BBS]
 ![โลโก้เว็บบอร์ด](https://github.com/Nasz/DiscuzX/raw/master/upload/static/image/common/logo.svg){: width="200" height="102" }
 _เว็บบอร์ดสำเร็จรูป_
 
-## รุ่นภาษาไทยของโปรแกรมเว็บบอร์ดสำเร็จรูป "ดิสคัซ!สิบ"
+รุ่นภาษาไทยของโปรแกรมเว็บบอร์ดสำเร็จรูป "ดิสคัซ!สิบ" 
+จากต้นฉบับ Discuz! X3.5 UTF-8 บิลท์ล่าสุด 2023-09-05
 
-จากต้นฉบับ Discuz! X3.5 Development UTF-8 บิลท์ล่าสุด 2022-12-27
+#### ตัวอย่างเว็บไซต์ <https://discuzxync.com>
 
-Git เป็นทางการของ Discuz! X  ([https://gitee.com/Discuz/DiscuzX](https://gitee.com/Discuz/DiscuzX)) รุ่นภาษาจีนตัวย่อ UTF8<br />
+#### สภาพแวดล้อมที่เหมาะสม
+
+| ชื่อซอฟต์แวร์ | ความต้องการขั้นต่ํา | รุ่นที่แนะนํา    | อื่น ๆ                                                 |
+|-----------|:----------------|:------------|:-----------------------------------------------------|
+| PHP       | >= 5.6          | 7.4 - 8.2   | ต้องการส่วนขยาย XML, ส่วนขยาย JSON,  ส่วนขยาย GD >= 1.0 |
+| MySQL     | >= 5.5          | 8.0         | หากคุณใช้ MariaDB เวอร์ชันที่แนะนําคือ >= 10.2             |
 
 ## ความคืบหน้า
 ภาษาไทย 88.90% ที่เหลือเป็นภาษาอังกฤษกับภาษาจีน
@@ -20,10 +26,8 @@ Git เป็นทางการของ Discuz! X  ([https://gitee.com/Discu
 ## ลิงก์ไปยังโปรเจค
 <https://github.com/Nasz/DiscuzX-Thai>
 
-## ตัวอย่างเว็บไซต์
-<https://discuzxync.com>
-
 ## คำอธิบาย
+
 เพื่อให้เป็นไปตามเงื่อนไขและข้อตกลงการใช้งานของเทนเซนคลาวด์เราจึงขอชี้แจงว่า ผู้แปลไม่มีความเกี่ยวข้องได ๆ กับบริษัทเทนเซนคลาวด์ 
 แม้ว่ายูชเชอร์อินเตอร์เฟซนี้จะถูกดัดแปลงอย่างระมัดระวัง โดยการเลือกแปลเฉพาะส่วนที่เป็นภาษาจีนเท่านั้น 
 แต่ก็ไม่อาจรับประกันความถูกต้องได้ทั้งหมด เราจึงขอปฏิเสทความรับผิดชอบได ๆ ที่อาจเกิดขึ้น 
@@ -51,7 +55,7 @@ Git เป็นทางการของ Discuz! X  ([https://gitee.com/Discu
 
 ## คำอธิบายแพ็กเกจการติดตั้ง
 
-ประกอบด้วยไฟล์ติดตั้ง Discuz รหัสอักขระแบบ UTF8 จาก GIT อย่างเป็นทางการ ที่อยู่สำหรับโหลดรุ่นอย่างเป็นทางการ [https://gitee.com/Discuz/DiscuzX](https://gitee.com/Discuz/DiscuzX)
+ประกอบด้วยไฟล์ติดตั้ง Discuz รหัสอักขระแบบ UTF8 จาก GIT อย่างเป็นทางการ ที่อยู่สำหรับโหลดรุ่นอย่างเป็นทางการ [https://gitee.com/Discuz/DiscuzX](https://gitee.com/Discuz/DiscuzX)(เข้าได้เฉพาะ IP จีน)
 
 มองหารุ่นอย่างเป็นทางการรุ่นล่าสุดได้ที่: [https://gitee.com/3dming/DiscuzL/attach_files](https://gitee.com/3dming/DiscuzL/attach_files)<br />
 QQกลุ่มแฟนคลับ：[181616145](https://qm.qq.com/cgi-bin/qm/qr?k=fP3Uzw3w7vKgOKDagTQF4KCFytenflXp&jump_from=webapi)(ภาษาจีน)<br />
@@ -59,9 +63,10 @@ QQกลุ่มสำรอง(หากกลุ่มบนเต็ม)：1
 กลุ่มผู้ใช้งานชาวไทย [Discord](https://discord.com/invite/faSzs3geux)(ภาษาไทย)
 
 ## เว็บไซต์ที่เกี่ยวข้อง 
-* [ชุมชนอย่างเป็นทางการของ Discuz!](https://www.discuz.net/)(ภาษาจีน)
+* [Git เป็นทางการของ Discuz! X](https://gitee.com/Discuz/DiscuzX)(เข้าได้เฉพาะ IP จีน)
+* [ชุมชนอย่างเป็นทางการของ Discuz!](https://www.dismall.com/)(ภาษาจีน)
 * [Discuz! แอปเซนเตอร์](https://addon.dismall.com/)(ภาษาจีน)
 * [บันทึกการเปลี่ยนแปลง](https://www.dismall.com/thread-77-1-1.html)(ภาษาจีน)
-* [ดาวน์โหลดรุ่นล่าสุด Discuz! X3.5](https://gitee.com/3dming/DiscuzL/attach_files)(ภาษาจีน)
+* [ดาวน์โหลดรุ่นล่าสุด Discuz! X3.5](https://gitee.com/3dming/DiscuzL/attach_files)(เข้าได้เฉพาะ IP จีน)
 * [เรียกใช้บริการ Discuz!](https://addon.dismall.com/service.html)(ภาษาจีน)
 * [ชุมชนอย่างเป็นทางการ ดิสคัส!ไทย](https://www.discuzthai.com)

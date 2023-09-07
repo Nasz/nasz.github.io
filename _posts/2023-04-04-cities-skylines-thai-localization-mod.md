@@ -9,6 +9,11 @@ tags: [Game, Mod, Unity]
 ม็อดภาษาไทยสำหรับเกม Cities: Skylines ภาษาไทย 100%
 อัปเดตล่าสุดเวอร์ชัน 1.17.1-f2 Treasure Hunt ออกล่าสมบัติไปกับเจี๊ยบเปอร์
 
+![GitHub release](https://img.shields.io/github/v/release/Nasz/Cities-Skylines-Mod_Lang_TH?label=Release)
+[![GitHub all releases](https://img.shields.io/github/downloads/Nasz/Cities-Skylines-Mod_Lang_TH/total?label=Total%20Downloads)](https://github.com/Nasz/Cities-Skylines-Mod_Lang_TH/releases/latest)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/c0560866087240b3aa9daf0fa6037469)](https://app.codacy.com/gh/Nasz/Cities-Skylines-Thai-Localization-Mod/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![Discord](https://img.shields.io/discord/1092697599447932928?label=Discord)](https://discord.gg/HSYPKfdJfr "Cities:Skylines Thai Localization Community")
+
 ![image](https://user-images.githubusercontent.com/384751/241568292-4af976af-b2d1-4f23-a51d-d47f62341b66.png){: width="790" height="444" }
 _หน้าเมนูหลักเมื่อใช้งานคู่กับม็อด Font Changer_
 ![image](https://user-images.githubusercontent.com/384751/228914512-11ed46fa-4a13-46f0-8a9f-07899138f16f.png){: width="790" height="444" }
@@ -17,9 +22,9 @@ _หน้าปรับตัวเลือกตั้งค่าภาษ�
 
 ## ความคืบหน้า
 
-| File(s)             | English      | Localized   | Untouched(EN)  | TOTAL |
-|---------------------|:-------------|:------------|:---------------|:------|
-| UI                  | 0(0%)        | 16863(100%) | 0(0%)          | 16863 |
+| File(s)             | English      | ไทย (Localized) | Untouched     | TOTAL |
+|---------------------|:-------------|:----------------|:---------------|:------|
+| UI                  | 0(0%)        | 16863(100%)     | 0(0%)          | 16863 |
 
 ## แปลโดย 
 - [Bammcool](https://steamcommunity.com/id/bammcool2546)
@@ -37,16 +42,16 @@ _หน้าปรับตัวเลือกตั้งค่าภาษ�
 
 สำหรับคนที่เล่นบน EPIC ให้ดาวน์โหลดไฟล์ [Mod_Lang_TH.dll](https://github.com/Nasz/Cities-Skylines-Mod_Lang_TH/releases/latest) ไปติดตั้งเอง
 
-## วิธีติดตั้ง (Install)
+## วิธีติดตั้ง
 `สำหรับผู้ใช้งาน Steam Workshop ไม่ต้องทำขั้นตอนต่อไปนี้`
-1. สร้างโฟลเดอร์ชื่อ `"Mod_Lang_TH"`{: .filepath} ขึ้นใน โฟลเดอร์ของเกม `"{SteamLibrary}\steamapps\common\Cities_Skylines\Files\Mods"`{: .filepath}
-2. นำไฟล์ `"Mod_Lang_TH.dll"`{: .filepath} ไปวางใว้ในนั้น
-3. เปิดเกม `หากก่อนหน้านี้คุณยังไม่เคยลงม็อดภาษาไทยมาก่อน เกมจะเปลี่ยนเป็นภาษาไทยโดยอัตโนมัติ`
+  1. สร้างโฟลเดอร์ชื่อ `"Mod_Lang_TH"`{: .filepath} ขึ้นใน โฟลเดอร์ของเกม `"{SteamLibrary}\steamapps\common\Cities_Skylines\Files\Mods"`{: .filepath}
+  2. นำไฟล์ `"Mod_Lang_TH.dll"`{: .filepath} ไปวางใว้ในนั้น
+  3. เปิดเกม `หากก่อนหน้านี้คุณยังไม่เคยลงม็อดภาษาไทยมาก่อน เกมจะเปลี่ยนเป็นภาษาไทยโดยอัตโนมัติ`
 
-## วิธีถอนการติดตั้ง (Uninstall)
+## วิธีถอนการติดตั้ง
 `สำหรับผู้ใช้งาน Steam Workshop ให้กด Unsubscribe ก่อนแล้วข้ามไปทำข้อ 2 เลย`
-1. ลบไฟล์ `"Mod_Lang_TH.dll"`{: .filepath} ในโฟลเดอร์ `"{SteamLibrary}\steamapps\common\Cities_Skylines\Files\Mods"`{: .filepath} ออก
-2. ลบไฟล์ `"th.locale"`{: .filepath} ในโฟลเดอร์ `"{SteamLibrary}\steamapps\common\Cities_Skylines\Files\Locale"`{: .filepath} ออก
+  1. ลบไฟล์ `"Mod_Lang_TH.dll"`{: .filepath} ในโฟลเดอร์ `"{SteamLibrary}\steamapps\common\Cities_Skylines\Files\Mods"`{: .filepath} ออก
+  2. ลบไฟล์ `"th.locale"`{: .filepath} ในโฟลเดอร์ `"{SteamLibrary}\steamapps\common\Cities_Skylines\Files\Locale"`{: .filepath} ออก
 
 ## คำแนะนำเพิ่มเติม
 สำหรับผู้ที่ต้องการให้ตัวอักษรภาษาไทยแสดงผลแบบในภาพ 
