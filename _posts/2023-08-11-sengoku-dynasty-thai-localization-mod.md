@@ -6,14 +6,16 @@ categories: [Localization]
 tags: [Game, Mod, Unreal]
 ---
 
-ม็อดภาษาไทยสำหรับเกม เซ็งโงกุ ไดนาสตี้ (ความสมบูรณ์ 33.51%) `โปรเจคอยู่ระหว่างการจัดทำ`
+ม็อดภาษาไทยสำหรับเกม เซ็งโงกุ ไดนาสตี้ (ความสมบูรณ์ 33.55%) `โปรเจคอยู่ระหว่างการจัดทำ`
 
-**This mod for Early Access Game version 0.1.2.0 only** 
+**This mod for Early Access Game version 0.1.3.1 only** 
 
 [![GitHub all releases](https://img.shields.io/github/downloads/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/total?label=Total%20Downloads)](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/releases/latest)
 
+#### วีดีโอตัวอย่าง
+{% include embed/youtube.html id='AmuFkg2h3dU' %}
 
-> `คำแนะนำ` หากคุณได้ดำเนินการอัปเดตเกมเป็นเวอร์ชันใหม่ (เวอร์ชันที่สูงกว่า 0.1.2.0) แนะนำทำการถอนการติดตั้งออกก่อนเข้าเล่นเกม เพื่อไม่ให้กระทบต่อกลศาสตร์ของตัวเกม
+> `คำแนะนำ` หากคุณได้ดำเนินการอัปเดตเกมเป็นเวอร์ชันใหม่ (`เวอร์ชันที่สูงกว่า 0.1.3.1`) แนะนำทำการถอนการติดตั้งออกก่อนเข้าเล่นเกม เพื่อไม่ให้กระทบต่อกลศาสตร์ของตัวเกม
 {: .prompt-info }
 
 ![image](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/assets/384751/6ca9ef73-8ea9-40fb-afd8-edba379ef6a5){: width="790" height="444" }
@@ -23,7 +25,7 @@ tags: [Game, Mod, Unreal]
 
 | File(s)             | English      | ไทย (Localized) | Untouched      | TOTAL |
 |---------------------|:-------------|:----------------|:---------------|:------|
-| UI                  | 0(0%)        | 2682(96.86%)    | 87(3.14%)      | 2769  |
+| UI                  | 0(0%)        | 2684(96.90%)    | 86(3.10%)      | 2770  |
 | Dialogue            | 3210(34.77%) | 535(5.80%)      | 5487(59.43%)   | 9232  |
 
 ## ลิงก์ไปยังโปรเจค

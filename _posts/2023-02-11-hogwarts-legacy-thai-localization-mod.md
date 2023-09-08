@@ -13,6 +13,9 @@ tags: [Game, Mod, Unreal, Community]
   - เวอร์ชันที่แจกใน Github จะไม่มีการดัดแปลงป้าย
   - ดาวน์โหลดป้ายภาษาไทยได้ที่ <https://www.nexusmods.com/hogwartslegacy/mods/1409>
 
+#### วีดีโอตัวอย่าง
+{% include embed/youtube.html id='hBrTnAiihW8' %}
+
 ## ความคืบหน้า
 
 | File(s)             | English       | ไทย (Localized) | Untouched     | TOTAL |
