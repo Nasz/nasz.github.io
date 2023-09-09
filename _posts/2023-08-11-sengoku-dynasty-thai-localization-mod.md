@@ -1,25 +1,36 @@
 ---
-title: Sengoky Dynasty Thai Localization Mod
+title: Sengoky Dynasty Thai Localization Community Mod
 author: nasz
 date: 2023-08-11 00:34:00 +0700
 categories: [Localization]
 tags: [Game, Mod, Unreal]
 ---
 
-ม็อดภาษาไทยสำหรับเกม เซ็งโงกุ ไดนาสตี้ (ความสมบูรณ์ 33.55%) `โปรเจคอยู่ระหว่างการจัดทำ`
-
-**This mod for Early Access Game version 0.1.3.1 only** 
+ม็อดภาษาไทยสำหรับเกม เซ็งโงกุ ไดนาสตี้ (ความสมบูรณ์ 33.55%) `โปรเจคอยู่ระหว่างการจัดทำ` `เหมาะสำหรับตรวจเช็คคำแปลเท่านั้น`
 
 [![GitHub all releases](https://img.shields.io/github/downloads/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/total?label=Total%20Downloads)](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/releases/latest)
 
-#### วีดีโอตัวอย่าง
-{% include embed/youtube.html id='AmuFkg2h3dU' %}
+**This mod for Early Access Game version 0.1.3.1 only** 
 
 > `คำแนะนำ` หากคุณได้ดำเนินการอัปเดตเกมเป็นเวอร์ชันใหม่ (`เวอร์ชันที่สูงกว่า 0.1.3.1`) แนะนำทำการถอนการติดตั้งออกก่อนเข้าเล่นเกม เพื่อไม่ให้กระทบต่อกลศาสตร์ของตัวเกม
 {: .prompt-info }
 
+#### วีดีโอตัวอย่าง
+{% include embed/youtube.html id='AmuFkg2h3dU' %}
+
 ![image](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/assets/384751/6ca9ef73-8ea9-40fb-afd8-edba379ef6a5){: width="790" height="444" }
 ![image](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/assets/384751/147a48df-50a3-40ba-aaf5-08d427764627){: width="790" height="444" }
+
+##### Roadmap
+  1. แกะไฟล์ภาษาฉบับออกมา 3 ภาษา (เสร็จแล้ว)
+  2. แยกหมวดหมู่+จัดเรียง+แปลเบื้องต้น (เสร็จแล้ว)
+  3. นำเอาคำแปลเบื้องต้นออก (เสร็จแล้ว)
+  4. แปลในส่วนของ UI ให้ครบ (เสร็จแล้ว)
+  5. แปลบทสนทนา (กำลังดำเนินการ)
+  6. เปิดเผยเอกสารงานแปลให้ผู้ใช้ทั่วไปเข้าร่วมแปลได้ (เปิดเป็นเวอร์ชันคอมมูนิตี้)
+
+> ในระหว่างนี้หากตัวเกมมีการอัปเดทหากได้รับแจ้งล้วงหน้าจากผู้พัฒนาเกม จะใช้เวลาไม่เกิน 2 ชั่วโมงในการปรับปรุงไฟล์ม็อด (หรืออาจนานกว่า)
+{: .prompt-info }
 
 ## ความคืบหน้า
 
@@ -33,7 +44,7 @@ tags: [Game, Mod, Unreal]
 
 ## ดาวน์โหลด
 [ดาวน์โหลดบิลท์ล่าสุด](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/releases/latest)
-`ไฟล์ม็อดบิลท์ล่าสุดจะแสดงผลภาษาอังกฤษในส่วนที่ยังไม่ได้แปลปะปนกันไป (เปลี่ยนจากบิลท์ก่อนหน้าที่แสดงคำแปลจากกูเกิล)`
+`ไฟล์ม็อด Pre-Release หมายถึงไฟล์ที่ยังไม่สมบูรณ์ และอาจมีการการอัปเดตบ่อยกว่าปกติ`
 
 ## วิธีติดตั้ง
 สร้างโฟลเดอร์ `~mods`{: .filepath} ไว้ใน `{SteamLibrary}\steamapps\common\Sengoku Dynasty\SengokuDynasty\Content\Paks`{: .filepath} แล้วนำไฟล์ `zSDThai_P.pak`{: .filepath} ไปวางใว้ในนั้น

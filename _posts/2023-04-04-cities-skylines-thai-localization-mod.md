@@ -1,13 +1,15 @@
 ---
-title: "Cities: Skylines Thai Localization Mod"
+title: "Cities: Skylines Thai Localization Community Mod"
 author: nasz
 date: 2023-04-04 13:04:00 +0700
 categories: [Localization]
 tags: [Game, Mod, Unity]
 ---
 
-ม็อดภาษาไทยสำหรับเกม Cities: Skylines ภาษาไทย 100%
-อัปเดตล่าสุดเวอร์ชัน 1.17.1-f2 Treasure Hunt ออกล่าสมบัติไปกับเจี๊ยบเปอร์
+ม็อดภาษาไทยสำหรับเกม Cities: Skylines ภาษาไทย 100% (Thai Localization Community Version)
+อัปเดตล่าสุดรองรับเกมเวอร์ชัน 1.17.1-f2 Treasure Hunt ออกล่าสมบัติไปกับเจี๊ยบเปอร์
+
+รวมแปลกับเราได้ที่ <https://discord.gg/HSYPKfdJfr>
 
 ![GitHub release](https://img.shields.io/github/v/release/Nasz/Cities-Skylines-Mod_Lang_TH?label=Release)
 [![GitHub all releases](https://img.shields.io/github/downloads/Nasz/Cities-Skylines-Mod_Lang_TH/total?label=Total%20Downloads)](https://github.com/Nasz/Cities-Skylines-Mod_Lang_TH/releases/latest)
@@ -25,6 +27,9 @@ _หน้าปรับตัวเลือกตั้งค่าภาษ�
 | File(s)             | English      | ไทย (Localized) | Untouched     | TOTAL |
 |---------------------|:-------------|:----------------|:---------------|:------|
 | UI                  | 0(0%)        | 16863(100%)     | 0(0%)          | 16863 |
+
+> หากตัวเกมมีการอัปเดทหากได้รับแจ้งล้วงหน้าจากผู้พัฒนาเกม จะใช้เวลาไม่เกิน 2 ชั่วโมงในการปรับปรุงไฟล์ม็อด (หรืออาจนานกว่า)
+{: .prompt-info }
 
 ## แปลโดย 
 - [Bammcool](https://steamcommunity.com/id/bammcool2546)
