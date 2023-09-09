@@ -65,7 +65,7 @@ tags: [Game, Mod, Unreal, Community]
 ลบไฟล์ `zHWThai_P.pak`{: .filepath} ออกจากโฟลเดอร์ `{SteamLibrary}\steamapps\common\Hogwarts Legacy\Phoenix\Content\Paks\~mods`{: .filepath}
 
 ## Thank
-[lordvoldem0rt](https://github.com/lordvoldem0rt)
+  + [lordvoldem0rt](https://github.com/lordvoldem0rt) (AVDIC Tools Coverter)
 
 ###### ขอบคุณภาพกราฟฟิกโลโก้สวย ๆ
   + [Pingoriginal](https://www.facebook.com/pingpongoriginal) คนทำภาพ #Mugglethai

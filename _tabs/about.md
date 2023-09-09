@@ -17,6 +17,9 @@ I am a Full Stack Web Developer from Thailand.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nasz&theme=dark&background=000000)](https://git.io/streak-stats)
 
+### [My Stack](https://stackshare.io/naruebet/my-stack#stack)
+JS, jQuery, HTML5, php, MySQL, Boostrap, CSS3, SASS, Composer, Laravel, Moment.js, TypeScript, Windows, Linux, Ubuntu, Sementic UI, Material-UI, UIKit, Foundation, Google Analytics, Visual Studio Code, Visual Studio, Github, Google Fonts, Font Awesome, Google Adsense, CloudFlare, AWS and GCP
+
 ## Current Administrative Website
 
   - [Talk Trendy](https://talktrendy.net) (Full Service)
@@ -43,3 +46,8 @@ I am a Full Stack Web Developer from Thailand.
   - northsync.com (End 2010)
   - isbanetwork.net (End 2009)
   - nsdv.go.th (End 2008)
+
+## Social Network
+  - <https://www.facebook.com/naruebet>
+  - <https://twitter.com/naruebet>
+  - <https://www.linkedin.com/in/naruebet/>
