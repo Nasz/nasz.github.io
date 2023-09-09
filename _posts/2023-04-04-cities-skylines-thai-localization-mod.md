@@ -3,7 +3,7 @@ title: "Cities: Skylines Thai Localization Community Mod"
 author: nasz
 date: 2023-04-04 13:04:00 +0700
 categories: [Localization]
-tags: [Game, Mod, Unity]
+tags: [Game, Mod, Unity, Community]
 ---
 
 ม็อดภาษาไทยสำหรับเกม Cities: Skylines ภาษาไทย 100% (Thai Localization Community Version)

@@ -3,7 +3,7 @@ title: "Cities: Skylines II Thai Community Localization Mod"
 author: nasz
 date: 2023-09-09 19:56:00 +0700
 categories: [Localization]
-tags: [Game, Mod, Unity]
+tags: [Game, Mod, Unity, Community]
 ---
 
 ม็อดภาษาไทยให้กับเกม Cities: Skyline II (ชื่อไทย ซิตีส์: สกายไลน์ II)
