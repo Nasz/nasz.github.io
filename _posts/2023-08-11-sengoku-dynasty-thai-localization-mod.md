@@ -1,12 +1,12 @@
 ---
-title: Sengoky Dynasty Thai Localization Community Mod
+title: Sengoky Dynasty Thai Community Localization Mod
 author: nasz
 date: 2023-08-11 00:34:00 +0700
 categories: [Localization]
 tags: [Game, Mod, Unreal, Community]
 ---
 
-ม็อดภาษาไทยสำหรับเกม เซ็งโงกุ ไดนาสตี้ (ความสมบูรณ์ 76.13%) `โปรเจคอยู่ระหว่างการจัดทำ` `เหมาะสำหรับตรวจเช็คคำแปลเท่านั้น`
+ม็อดภาษาไทยสำหรับเกม เซ็งโงกุ ไดนาสตี้ (ความสมบูรณ์ 83.76%) `โปรเจคอยู่ระหว่างการจัดทำ` `เหมาะสำหรับตรวจเช็คคำแปลเท่านั้น`
 
 [![GitHub all releases](https://img.shields.io/github/downloads/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/total?label=Total%20Downloads)](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/releases/latest)
 
@@ -25,8 +25,8 @@ tags: [Game, Mod, Unreal, Community]
   1. แกะไฟล์ภาษาต้นฉบับออกมา (เสร็จแล้ว)
   2. แยกหมวดหมู่+จัดเรียง+แปลเบื้องต้น (เสร็จแล้ว)
   3. นำเอาคำแปลเบื้องต้นออก (เสร็จแล้ว)
-  4. แปลในส่วนของ UI ให้ครบ (เสร็จแล้ว)
-  5. แปลบทสนทนา (กำลังดำเนินการ)
+  4. แปลในส่วนของ UI (เสร็จแล้ว)
+  5. แปลบทสนทนาโต้ตอบ (กำลังดำเนินการ)
   6. เปิดเผยเอกสารงานแปลให้ผู้ใช้ทั่วไปเข้าร่วมแปลได้ (เปิดเป็นเวอร์ชันคอมมูนิตี้)
 
 > ในระหว่างนี้หากตัวเกมมีการอัปเดทหากได้รับแจ้งล้วงหน้าจากผู้พัฒนาเกม จะใช้เวลาไม่เกิน 10 นาที ในการปรับปรุงไฟล์ม็อดแล้วทำการออกบิลท์ใหม่ (หรืออาจนานกว่าในกรณีทดสอบไฟล์ใหม่แล้วไม่ผ่าน)
@@ -37,7 +37,7 @@ tags: [Game, Mod, Unreal, Community]
 | File(s)             | English      | ไทย (Localized) | Untouched      | TOTAL |
 |---------------------|:-------------|:----------------|:---------------|:------|
 | UI                  | 0(0%)        | 2685(96.93%)    | 85(3.07%)      | 2770  |
-| Dialogue            | 2865(31.03%) | 880(9.53%)      | 5487(59.43%)   | 9232  |
+| Dialogue            | 1949(21.11%) | 1796(19.45%)     | 5487(59.43%)   | 9232  |
 
 ## ลิงก์ไปยังโปรเจค
  <https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod> 

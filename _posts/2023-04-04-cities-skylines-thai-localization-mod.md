@@ -1,5 +1,5 @@
 ---
-title: "Cities: Skylines Thai Localization Community Mod"
+title: "Cities: Skylines Thai Community Localization Mod"
 author: nasz
 date: 2023-04-04 13:04:00 +0700
 categories: [Localization]
