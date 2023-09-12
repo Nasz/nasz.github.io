@@ -10,4 +10,4 @@ I am a Full Stack Web Developer from Thailand.
 ### :fire: My Stats : 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nasz&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nasz&theme=dark&hide_border=true)](https://git.io/streak-stats)
