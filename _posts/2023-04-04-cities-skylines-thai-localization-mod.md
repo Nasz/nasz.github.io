@@ -26,9 +26,9 @@ tags: [Game, Mod, Unity, Community]
 ด้วยความตั้งใจที่อยากให้ผลงานชิ้นนี้เป็นของชุมชน เราจึงเปิดให้บุคคลทั่วไปได้สะท้อนความคิดเห็นหรือแม้แต่จะเข้ามารวมแปลกับเราเลยก็ได้ โดยสามารถเข้าถึงเอกสารงานแปลและร่วมกลุ่มพูดคุบกับเราได้ที่[ดิสคอร์ด](https://discord.gg/HSYPKfdJfr)
 
 #### ภาพตัวอย่าง
-![image](https://user-images.githubusercontent.com/384751/241568292-4af976af-b2d1-4f23-a51d-d47f62341b66.png){: width="790" height="444" }
+![image](https://github.com/Nasz/Cities-Skylines-Thai-Localization-Mod/assets/384751/2f1c8f8b-b31e-44e8-951d-2afb30291d43){: width="790" height="444" }
 _หน้าเมนูหลักเมื่อใช้งานคู่กับม็อด Font Changer_
-![image](https://user-images.githubusercontent.com/384751/228914512-11ed46fa-4a13-46f0-8a9f-07899138f16f.png){: width="790" height="444" }
+![image](https://github.com/Nasz/Cities-Skylines-Thai-Localization-Mod/assets/384751/e44142aa-ce06-480e-9c4c-49b3a5561538){: width="790" height="444" }
 _หน้าปรับตัวเลือกตั้งค่าภาษาของเกม_
 
 ## ความคืบหน้า
