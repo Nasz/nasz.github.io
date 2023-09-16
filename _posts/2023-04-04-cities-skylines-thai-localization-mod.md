@@ -76,7 +76,7 @@ _หน้าปรับตัวเลือกตั้งค่าภาษ�
 ให้ติดตั้ง Font Changer ของ neinnew ([Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2981354344)) ([Github](https://github.com/neinnew/FontChanger/releases/latest))
 
 สำหรับไฟล์ Font แนะนำให้ใช้ [Noto Sans Thai CS](https://github.com/Nasz/Cities-Skylines-Thai-Localization-Mod/releases/download/v1.16/NotoSansThaiCS-Regular.ttf) กับ [Sarabun CS](https://github.com/Nasz/Cities-Skylines-Thai-Localization-Mod/releases/download/v1.16/Sarabun-CS.ttf)
-สิ่งสำคัญคือ ตอนติดตั้งต้องฟอนต์คลิ๊กขวาแล้วเลือก Install to all user ด้วยนะครับ ไม่งั้นตัว Font Changer จะนำฟอนต์ไปใช้กับ Unity Engine ไม่ได้
+สิ่งสำคัญคือ ตอนติดตั้งฟอนต์ต้องคลิ๊กขวาแล้วเลือก Install to all user ด้วยนะครับ ไม่งั้นตัว Font Changer จะนำฟอนต์ไปใช้กับ Unity Engine ไม่ได้
 
 ![image](https://user-images.githubusercontent.com/384751/230114452-8bbc7978-1ec9-4439-a744-be9fb5f44ba1.png){: width="549" height="368" }
 
