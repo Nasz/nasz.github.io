@@ -1,0 +1,9 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Disallow: /norobots/
+
+Sitemap: {{ '/sitemap.xml' | absolute_url }}
