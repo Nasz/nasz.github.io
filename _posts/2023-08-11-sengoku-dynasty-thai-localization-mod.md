@@ -1,12 +1,12 @@
 ---
-title: Sengoky Dynasty Thai Community Localization Mod
+title: Sengoku Dynasty Thai Community Localization Mod
 author: nasz
 date: 2023-08-11 00:34:00 +0700
 categories: [Localization]
 tags: [Game, Mod, Unreal, Community]
 ---
 
-## ม็อดภาษาไทยสำหรับเกม เซ็นโงคุ ไดนาสตี้ (ความสมบูรณ์ 89.49%) `*โปรเจคอยู่ระหว่างการจัดทำ` `*สำหรับเช็คคำแปลเท่านั้น`
+## ม็อดภาษาไทยสำหรับเกม เซนโกคุ ไดนาสตี้ (ความสมบูรณ์ 89.49%) `*โปรเจคอยู่ระหว่างการจัดทำ` `*สำหรับเช็คคำแปลเท่านั้น`
 
 **This mod for Early Access Game version 0.1.4.0 only** 
 
