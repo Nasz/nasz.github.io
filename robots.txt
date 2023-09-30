@@ -6,4 +6,4 @@ Allow: /
 
 Disallow: /norobots/
 
-Sitemap: {{ '/sitemap.xml' | absolute_url }}
+Sitemap: https://naruebet.dev/sitemap.xml
