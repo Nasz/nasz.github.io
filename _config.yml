@@ -13,7 +13,7 @@ baseurl: ""
 lang: th
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone:Asia/Bangkok
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -73,10 +73,10 @@ theme_mode: # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: https://discuzxync.com
+img_cdn: "https://discuzxync.com"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /images/n7c.webp
+avatar: "/images/n7c.webp"
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -177,12 +177,12 @@ compress_html:
 exclude:
   - "*.gem"
   - "*.gemspec"
+  - docs
   - tools
   - README.md
   - CHANGELOG.md
   - LICENSE
   - rollup.config.js
-  - node_modules
   - package*.json
 
 jekyll-archives:
