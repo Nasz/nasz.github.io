@@ -12,13 +12,13 @@ baseurl: ""
 # otherwise, the layout language will use the default value of 'en'.
 lang: th
 
-# Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
+# Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone: "Asia/Bangkok"
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Nasz Society # the main title
+title: Naruebet # the main title
 
 tagline: Welcome to my tiny blog. # it will display as the sub-title
 
@@ -180,7 +180,6 @@ exclude:
   - docs
   - tools
   - README.md
-  - CHANGELOG.md
   - LICENSE
   - rollup.config.js
   - package*.json
