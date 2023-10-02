@@ -15,7 +15,7 @@ I am a Full Stack Web Developer from Thailand.
 ### My Stats : 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats){: width="300" height="165" }
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nasz&theme=dark&background=000000)](https://git.io/streak-stats){: width="495" height="195" }
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nasz&theme=dark&background=000000)](https://git.io/streak-stats){: width="495" height="195" }
 
 ### [My Stack](https://stackshare.io/naruebet/my-stack#stack)
 JS, jQuery, HTML5, php, MySQL, Boostrap, CSS3, SASS, Composer, Laravel, Moment.js, TypeScript, Windows, Linux, Ubuntu, Sementic UI, Material-UI, UIKit, Foundation, Google Analytics, Visual Studio Code, Visual Studio, Github, Google Fonts, Font Awesome, Google Adsense, CloudFlare, AWS and GCP
