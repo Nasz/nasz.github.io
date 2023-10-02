@@ -38,9 +38,13 @@ tags: [Game, Mod, Unreal, Community]
 #### ลิงก์ไปยังโปรเจค
  <https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod> 
 
+ กลุ่มเฟซบุ๊ค<br/>
+  <https://www.facebook.com/groups/823501699452530>
+
 ## ดาวน์โหลด
-[ดาวน์โหลดบิลท์ล่าสุด](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/releases/latest)
-`*ไฟล์ม็อด Pre-Release หมายถึงไฟล์ที่ยังไม่สมบูรณ์ และอาจมีการการอัปเดตบ่อยกว่าปกติ``*จะพยายามอัปเดตทุกครั้งที่มีการปรับแก้ไขคำแปล`
+[NexusMods](https://www.nexusmods.com/sengokudynasty/mods/2) <br/>
+[Github](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/releases/latest) <br/>
+`*ไฟล์ม็อดอาจมีการการอัปเดตบ่อยกว่าปกติ` `*จะพยายามอัปเดตทุกครั้งที่มีการปรับแก้ไขคำแปล`
 
 #### วิธีติดตั้ง
 สร้างโฟลเดอร์ `~mods`{: .filepath} ไว้ใน `{SteamLibrary}\steamapps\common\Sengoku Dynasty\SengokuDynasty\Content\Paks`{: .filepath} แล้วนำไฟล์ `zSDThai_P.pak`{: .filepath} ไปวางใว้ในนั้น
