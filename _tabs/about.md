@@ -3,20 +3,16 @@
 icon: fas fa-info-circle
 order: 4
 ---
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
-### About Me :
-
 I am a Full Stack Web Developer from Thailand.
   - My MBTI is [ISFP](https://www.16personalities.com/th/isfp-%E0%B8%9A%E0%B8%B8%E0%B8%84%E0%B8%84%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%A0%E0%B8%B2%E0%B8%9E).
   - I’m working as a Website Development and Website Administrators.
   - Exploring Technical Optimize for Coding.
   - In my free time, I making a game mod for Thai player.
 
-### My Stats : 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats){: width="300" height="165" }
+### My Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nasz&theme=dark&background=000000){: width="495" height="195" }
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nasz&theme=dark&background=000000)](https://git.io/streak-stats){: width="495" height="195" }
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasz&layout=compact&theme=vision-friendly-dark){: width="300" height="165" }
 
 ### [My Stack](https://stackshare.io/naruebet/my-stack#stack)
 JS, jQuery, HTML5, php, MySQL, Boostrap, CSS3, SASS, Composer, Laravel, Moment.js, TypeScript, Windows, Linux, Ubuntu, Sementic UI, Material-UI, UIKit, Foundation, Google Analytics, Visual Studio Code, Visual Studio, Github, Google Fonts, Font Awesome, Google Adsense, CloudFlare, AWS and GCP
