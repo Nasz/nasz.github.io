@@ -10,7 +10,7 @@ I am a Full Stack Web Developer from Thailand.
   - In my free time, I making a game mod for Thai player.
 
 ### My Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Nasz&theme=dark&background=000000){: width="495" height="195" }
+![GitHub Streak](https://streak-stats.demolab.com?user=Nasz&theme=dark){: width="495" height="195" }
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasz&layout=compact&theme=vision-friendly-dark){: width="300" height="165" }
 
