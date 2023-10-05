@@ -1,10 +1,10 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 4
+order: 5
 ---
 I am a Full Stack Web Developer from Thailand.
-  - My MBTI is [ISFP](https://www.16personalities.com/th/isfp-%E0%B8%9A%E0%B8%B8%E0%B8%84%E0%B8%84%E0%B8%A5%E0%B8%B4%E0%B8%81%E0%B8%A0%E0%B8%B2%E0%B8%9E).
+  - My MBTI is [ISFP](https://www.16personalities.com/isfp-personality).
   - I’m working as a Website Development and Website Administrators.
   - Exploring Technical Optimize for Coding.
   - In my free time, I making a game mod for Thai player.

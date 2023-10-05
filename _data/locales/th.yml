@@ -14,6 +14,7 @@ tabs:
   categories: หมวดหมู่
   tags: แท็ก
   archives: คลังเอกสาร
+  download: ดาวน์โหลด
   about: เกี่ยวกับ
 
 # the text displayed in the search bar & search results
@@ -46,7 +47,7 @@ not_found:
   statment: ขออภัย URL ที่คุณวางนั้นผิดพลาด หรือมันชี้ไปยังสิ่งที่ไม่มีอยู่
 
 notification:
-  update_found: มีเวอร์ชันใหม่ของเนื้อหา
+  update_found: เนื้อหามีเวอร์ชันใหม่
   update: อัปเดต
 
 # ----- Posts related labels -----
