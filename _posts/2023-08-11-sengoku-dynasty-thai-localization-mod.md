@@ -10,7 +10,7 @@ tags: [Game, Mod, Unreal, Community]
 
 **This mod for Early Access Game version 0.1.4.0 only** 
 
-> `คำเตือน` เมื่อเกมของคุณไม่ได้เป็นเวอร์ชันปัจจุบัน (`เวอร์ชัน 0.1.4.0`) แนะนำทำการถอนการติดตั้งม็อดออกก่อนที่เข้าเล่นเกม เพื่อไม่ให้กระทบต่อกลศาสตร์ของตัวเกม
+> `คำเตือน` คนที่เกมอัปเดตเป็น 0.1.5.0 แล้วแนะนำทำการถอนการติดตั้งม็อดออกก่อนนะครับ เพื่อไม่ให้กระทบต่อกลศาสตร์ของตัวเกม ตัวม็อดที่รองรับเวอร์ชันดังกล่าวจะตามมาเร็ว ๆ นี้
 {: .prompt-danger }
 
 #### วีดีโอตัวอย่าง
@@ -36,7 +36,7 @@ tags: [Game, Mod, Unreal, Community]
 | Dialogue            | 1266(13.71%) | 2479(26.85%)    | 5487(59.43%)   | 9232  |
 
 #### ลิงก์ไปยังโปรเจค
- <https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod> 
+  <https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod> 
 
  กลุ่มเฟซบุ๊ค<br/>
   <https://www.facebook.com/groups/823501699452530>

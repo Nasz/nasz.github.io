@@ -18,12 +18,12 @@ timezone: "Asia/Bangkok"
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Naruebet # the main title
+title: Naruebet.dev # the main title
 
-tagline: Welcome to my tiny blog. # it will display as the sub-title
+tagline: ยินดีต้อนรับเข้าสู่บล็อกน้อย ๆ ของผม # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A fresh look at a little Nasz's blog, Posting and sharing my coding journey with various projects.
+  เว็บบล็อกที่แบ่งปันเรื่องราวเกี่ยวกับการเขียนโค๊ตและผลงานต่าง ๆ ของผม
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://naruebet.dev"

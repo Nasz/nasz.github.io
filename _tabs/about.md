@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-order: 5
+order: 6
 ---
 I am a Full Stack Web Developer from Thailand.
   - My MBTI is [ISFP](https://www.16personalities.com/isfp-personality).
