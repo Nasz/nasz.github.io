@@ -2,7 +2,7 @@
 title: Hogwarts Legacy Thai Community Localization Mod
 author: nasz
 date: 2023-02-11 20:55:00 +0700
-categories: [Localization]
+categories: [Localization, Mod]
 tags: [Game, Mod, Unreal, Community]
 ---
 

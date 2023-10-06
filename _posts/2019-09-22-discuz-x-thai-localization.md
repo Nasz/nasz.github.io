@@ -2,7 +2,7 @@
 title: Discuz! X Thai Localization Version
 author: nasz
 date: 2022-09-12 11:26:00 +0700
-categories: [Localization]
+categories: [Localization, CMS]
 tags: [PHP, CMS, Thai, BBS]
 ---
 ![โลโก้เว็บบอร์ด](https://github.com/Nasz/DiscuzX/raw/master/upload/static/image/common/logo.svg){: width="200" height="102" }

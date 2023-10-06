@@ -2,7 +2,7 @@
 title: Sengoku Dynasty Thai Community Localization Mod
 author: nasz
 date: 2023-08-11 00:34:00 +0700
-categories: [Localization]
+categories: [Localization, Mod]
 tags: [Game, Mod, Unreal, Community]
 ---
 
