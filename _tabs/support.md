@@ -4,9 +4,20 @@ icon: fas fa-hand-holding-medical
 order: 5
 ---
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#0866FF', 'W7W6LD7M9');kofiwidget2.draw();</script> <br/>
-[![Paypal](https://assets.naruebet.dev/img/paypal-me.webp){: w="184" h="46": .left }](https://paypal.me/NChaipin)
+<div class="container text-center">
+  <div class="row align-items-center">
+    <div class="col">
+      <a href="https://ko-fi.com/W7W6LD7M9"><img src="https://assets.naruebet.dev/img/btnsupport_kofi.webp" data-src="https://assets.naruebet.dev/img/btnsupport_kofi.webp" alt="Support Me on Ko-fi" width="185" height="50" class=" lazyloaded" data-proofer-ignore=""></a>
+    </div>
+    <div class="col">
+      <a href="https://paypal.me/NChaipin"><img src="https://assets.naruebet.dev/img/btnsupport_paypal.webp" data-src="https://assets.naruebet.dev/img/btnsupport_paypal.webp" alt="Paypal" width="185" height="50" class=" lazyloaded" data-proofer-ignore=""></a>
+    </div>
+    <div class="col">
+      <a href="https://www.buymeacoffee.com/naruebet"><img src="https://assets.naruebet.dev/img/btnsupport_buymecoffee.webp" data-src="https://assets.naruebet.dev/img/btnsupport_buymecoffee.webp" alt="Buy Me A Coffee" width="185" height="50" class=" lazyloaded" data-proofer-ignore=""></a>
+    </div>
+  </div>
+</div>
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png){: w="184" h="52": .right }](https://www.buymeacoffee.com/naruebet)
+ <br/>
 
 ![PromptPay](https://assets.naruebet.dev/img/PromptPay.webp){: w="184" h="234"}
