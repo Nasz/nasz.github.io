@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 6
 ---
-I am a Full Stack Web Developer from Thailand.
+I am 38 year old a Full Stack Web Developer from Thailand.
   - My MBTI is [ISFP](https://www.16personalities.com/isfp-personality).
   - I’m working as a Website Development and Website Administrators.
   - Exploring Technical Optimize for Coding.
@@ -17,34 +17,50 @@ I am a Full Stack Web Developer from Thailand.
 ### [My Stack](https://stackshare.io/naruebet/my-stack#stack)
 JS, jQuery, HTML5, php, MySQL, Boostrap, CSS3, SASS, Composer, Laravel, Moment.js, TypeScript, Windows, Linux, Ubuntu, Sementic UI, Material-UI, UIKit, Foundation, Google Analytics, Visual Studio Code, Visual Studio, Github, Google Fonts, Font Awesome, Google Adsense, CloudFlare, AWS and GCP
 
-## Current Administrative Website
+## Currently managed website list
 
-  - [Talk Trendy](https://talktrendy.net) (Full Service)
-  - [Discuz!XYNC](https://discuzxync.com) (Full Service)
-  - [Sumoto Corp](https://sumotocorp.com) (Co-contract)
-  - [Eureka School](https://eureka-school.com) (Co-contract)
+| Project                       | Domain                      | Service          | Since |
+|-------------------------------|:----------------------------|:-----------------|:------|
+| Talk Trendy                   | <https://talktrendy.net>    | Full Service     | 2019  |
+| Discuz!XYNC                   | <https://discuzxync.com>    | Full Service     | 2015  |
+| Sumoto Corp                   | <https://sumotocorp.com>    | Coordinate       | 2020  |
+| Eureka School                 | <https://eureka-school.com> | Coordinate       | 2020  |
+| The Agenda Thai (News Agency) | <https://theagendathai.com> | DNS Service      | 2020  |
+| Sumoto Corp                   | <https://sumotocorp.co.th>  | DNS Service      | 2020  |
 
-## Pass-project
+## Pass project
 
-  - theagendathai.com (End 2023)
-  - sumofixxed.com (End 2022)
-  - centuryfirstinternational.com (End 2021)
-  - romanticresidencekhaoyai.com (End 2021)
-  - thaicondo.or.th (End 2021)
-  - c21x.co.th (End 2021)
-  - feelzogood.com (End 2021)
-  - sweetfigliving.com (End 2021)
-  - xhibiz.com (End 2021)
-  - housecondoshow.com (End 2021)
-  - pinnacle-interiors.com (End 2020)
-  - 123-run.com (End 2020)
-  - booking-library.com (End 2020)
-  - siamphone.com (End 2019)
-  - northsync.com (End 2010)
-  - isbanetwork.net (End 2009)
-  - nsdv.go.th (End 2008)
+| Project                       | Domain               | Service          | Since | Until |
+|-------------------------------|:---------------------|:-----------------|:------|:------|
+| Ramantic Residence Khaoyai    | romanticresidencekhaoyai.com | Full Service | 2021 | 2022|
+| The Agenda Thai (News Agency) | theagendathai.com    | Full Service     | 2020  | 2021  |
+| Sumoto Crop                   | sumotocorp.com       | Full Service     | 2020  | 2021  |
+| Sumoto Fixxed                 | sumofixxed.com       | Domain Assign  | 2020  | 2020  |
+| Century21 (Thai Estate Agency)| centuryfirstinternational.com | Domain Assign | 2020 | 2021 |
+| Thai Condominium Association  | thaicondo.or.th | Administrator | 2020 | 2021|
+| Feelzogood Retro furniture | feelzogood.com | Full Service | 2020 | 2021|
+| Sweet Fig Townhouse | sweetfigliving.com | Administrator | 2020 | 2021|
+| House & Condo Show | housecondoshow.com | Administrator | 2020 | 2022|
+| Interior Website | pinnacle-interiors.com | Domain Assign | 2020 | 2020|
+| Charity Run Website | 123-run.com | Domain Assign | 2020 | 2020|
+| Condo reservation system | booking-library.com | Coordinate | 2020 | 2020|
+| C21X Event Agency | c21x.co.th | Administrator | 2019 | 2021|
+| A Company Website Builder | xhibiz.com | Full Service | 2019 | 2021|
+| Siamphone Dot Com | siamphone.com | Full Service | 2008 | 2019|
+| Northern Synchronize Website | northsync.com | Full Service | 2008 | 2011|
+| Information System Community Webboard | isbanetwork.net | Administrator | 2007 | 2009|
+| ศูนย์ส่งเสริมและพัฒนาอาชีวศึกษาภาคเหนือ | nsdv.go.th | Administrator | 2006 | 2007|
 
 ## Social Network
   - <https://www.facebook.com/naruebet>
   - <https://twitter.com/naruebet>
   - <https://www.linkedin.com/in/naruebet/>
+  - <https://github.com/Nasz>
+  - <https://naruebet.tumblr.com/>
+  - <https://steamcommunity.com/id/n7c_th>
+  - <https://www.youtube.com/@n7c_th>
+  - <https://account.xbox.com/en-us/Profile?GamerTag=ncnasz>
+  - <https://www.instagram.com/ncnasz>
+  - <https://www.twitch.tv/hynix32b>
+  - <https://www.pinterest.com/hynix32b>
+  - <https://open.spotify.com/user/hynix32b>
