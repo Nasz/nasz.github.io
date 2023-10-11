@@ -1,5 +1,5 @@
 ---
-title: Discuz! X Thai Localization Version
+title: Discuz! X Thai Version
 author: nasz
 date: 2022-09-12 11:26:00 +0700
 categories: [Localization, CMS]
