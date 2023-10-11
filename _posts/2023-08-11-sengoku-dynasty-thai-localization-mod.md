@@ -6,11 +6,11 @@ categories: [Localization, Mod]
 tags: [Game, Mod, Unreal, Community]
 ---
 
-## ม็อดภาษาไทยสำหรับเกม เซนโกคุ ไดนาสตี้ (ความสมบูรณ์ 89.49%) `*โปรเจคอยู่ระหว่างการจัดทำ` `*สำหรับเช็คคำแปลเท่านั้น`
+## ม็อดภาษาไทยสำหรับเกม เซนโกคุ ไดนาสตี้ (ความสมบูรณ์ 90.38%)
 
-**This mod for Early Access Game version 0.1.4.0 only** 
+**This mod for Early Access Game version 0.1.5.0 only** 
 
-> `คำเตือน` สำหรับใครที่อัปเดตเกมเป็นเวอร์ชัน 0.1.5.0 แล้วแนะนำให้ทำการถอนการติดตั้งม็อดออกก่อนนะครับ เพื่อไม่ให้กระทบต่อกลศาสตร์ของตัวเกม ตัวม็อดที่รองรับเวอร์ชันดังกล่าวจะตามมาเร็ว ๆ นี้
+> ไฟล์นี้ใช้ได้กับเกมเวอร์ชัน 0.1.5.0 เท่านั้น หากนำไปใช้กับเกมเวอร์ชันอื่นจะให้ตัวเกมเกิดบั๊ก หากเกมของคุณเวอร์ชันเก่ากว่า ลองมองหาเวอร์ชันก่อนหน้าได้ที่หัวข้อดาวน์โหลด หากเกมของคุณใหม่กว่า โปรดรับความเสี่ยงที่อาจเกิดขึ้นกับระบบกลศาสตร์ของเกม
 {: .prompt-danger }
 
 #### วีดีโอตัวอย่าง
@@ -35,6 +35,8 @@ tags: [Game, Mod, Unreal, Community]
 | UI                  | 0(0.00%)     | 2728(97.05%)    | 83(2.95%)      | 2811  |
 | Dialogue            | 1266(13.71%) | 2479(26.85%)    | 5487(59.43%)   | 9232  |
 
+___
+
 ## ดาวน์โหลด
 [NexusMods](https://www.nexusmods.com/sengokudynasty/mods/2) <br/>
 [Github](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/releases/latest) <br/>
@@ -50,11 +52,14 @@ tags: [Game, Mod, Unreal, Community]
  กลุ่มเฟซบุ๊ค<br/>
   [https://www.facebook.com](https://www.facebook.com/groups/823501699452530)
 
+___
+
 #### วิธีติดตั้ง
 สร้างโฟลเดอร์ `~mods`{: .filepath} ไว้ใน `{SteamLibrary}\steamapps\common\Sengoku Dynasty\SengokuDynasty\Content\Paks`{: .filepath} แล้วนำไฟล์ `zSDThai_P.pak`{: .filepath} ไปวางใว้ในนั้น
 
 #### วิธีถอนการติดตั้ง
 ลบไฟล์ `zSDThai_P.pak`{: .filepath} ออกจากโฟลเดอร์ `{SteamLibrary}\steamapps\common\Sengoku Dynasty\SengokuDynasty\Content\Paks\~mods`{: .filepath}
+___
 
 ## ขอขอบคุณ
 + Sengoku Dynasty: [Steam](https://store.steampowered.com/app/1702010/)
