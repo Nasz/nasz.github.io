@@ -41,10 +41,10 @@ tags: [Game, Mod, Unreal, Community]
 `*ไฟล์ม็อดอาจมีการการอัปเดตบ่อยกว่าปกติ` `*จะพยายามอัปเดตทุกครั้งที่มีการปรับแก้ไขคำแปล`
 
 #### ลิงก์ไปยังโปรเจค
- ชอร์จโค๊ต
+ ชอร์จโค๊ต<br/>
   [https://github.com/](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod) 
 
- ไฟล์แปล
+ ไฟล์แปล<br/>
   [https://docs.google.com](https://docs.google.com/spreadsheets/d/1uhrjuo0ukRl11h9BHCHa1qItBJbcUuGYTXwsVe2GGLk/edit?usp=sharing)
 
  กลุ่มเฟซบุ๊ค<br/>
