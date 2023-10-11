@@ -94,7 +94,7 @@ comments:
   giscus:
     repo: "Nasz/Nasz" # <gh-username>/<repo>
     repo_id: "R_kgDOKNrA2g"
-    category: "Announcements"
+    category: "General"
     category_id: "DIC_kwDOKNrA2s4CZzA-"
     mapping: "pathname" # optional, default to 'pathname'
     input_position: "bottom" # optional, default to 'bottom'
