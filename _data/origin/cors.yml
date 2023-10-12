@@ -11,7 +11,7 @@ cdns:
 
 # fonts
 
-webfonts: https://fonts.googleapis.com/css2?family=Noto+Sans+Thai&family=Noto+Serif+Thai&family=Sarabun&display=swap
+webfonts: https://fonts.googleapis.com/css2?family=Noto+Sans+Thai:wght@400;600&family=Noto+Serif+Thai:wght@400;600&family=Sarabun:wght@400;600&display=swap
 
 # Libraries
 
