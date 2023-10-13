@@ -3,11 +3,11 @@
 icon: fas fa-info-circle
 order: 6
 ---
-I am 38 year old a Full Stack Web Developer from Thailand.
+I am Base, Live in Chiangmai. I work a full stack web developer around 21 Years.
   - My MBTI is [ISFP](https://www.16personalities.com/isfp-personality).
   - I’m working as a Website Development and Website Administrators.
-  - Exploring Technical Optimize for Coding.
-  - In my free time, I making a game mod for Thai player.
+  - Exploring technical for pptimize my coding.
+  - In my free time, I playing game and making some item like Translation Mod.
 
 ### My Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nasz&theme=dark){: width="495" height="195" }
@@ -15,7 +15,7 @@ I am 38 year old a Full Stack Web Developer from Thailand.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasz&layout=compact&theme=vision-friendly-dark){: width="300" height="165" }
 
 ### [My Stack](https://stackshare.io/naruebet/my-stack#stack)
-JS, jQuery, HTML5, php, MySQL, Boostrap, CSS3, SASS, Composer, Laravel, Moment.js, TypeScript, Windows, Linux, Ubuntu, Sementic UI, Material-UI, UIKit, Foundation, Google Analytics, Visual Studio Code, Visual Studio, Github, Google Fonts, Font Awesome, Google Adsense, CloudFlare, AWS and GCP
+php, MySQL, HTML, Javascript, CSS, jQuery, Boostrap, SASS, Composer, Laravel, Moment.js, TypeScript, Windows, Linux, Ubuntu, Sementic UI, Material-UI, UIKit, Foundation, Google Analytics, Visual Studio Code, Visual Studio, Github, Google Fonts, Font Awesome, Google Adsense, CloudFlare, AWS and GCP
 
 ## Currently managed website list
 
@@ -64,3 +64,8 @@ JS, jQuery, HTML5, php, MySQL, Boostrap, CSS3, SASS, Composer, Laravel, Moment.j
   - <https://www.twitch.tv/hynix32b>
   - <https://www.pinterest.com/hynix32b>
   - <https://open.spotify.com/user/hynix32b>
+
+
+## Contact
+  Email: naruebet@gmail.com
+  Phone: +66 87-189-2055
