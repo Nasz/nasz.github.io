@@ -6,7 +6,7 @@ order: 6
 I am Base, Live in Chiangmai. I work a full stack web developer around 21 Years.
   - My MBTI is [ISFP](https://www.16personalities.com/isfp-personality).
   - I’m working as a Website Development and Website Administrators.
-  - Exploring technical for pptimize my coding.
+  - Exploring technical for optimize my coding.
   - In my free time, I playing game and making some item like Translation Mod.
 
 ### My Stats
@@ -51,6 +51,10 @@ php, MySQL, HTML, Javascript, CSS, jQuery, Boostrap, SASS, Composer, Laravel, Mo
 | Information System Community Webboard | isbanetwork.net | Administrator | 2007 | 2009|
 | ศูนย์ส่งเสริมและพัฒนาอาชีวศึกษาภาคเหนือ | nsdv.go.th | Administrator | 2006 | 2007|
 
+## Contact
+  Email: naruebet@gmail.com
+  Phone: +66 87-189-2055
+
 ## Social Network
   - <https://www.facebook.com/naruebet>
   - <https://twitter.com/naruebet>
@@ -64,8 +68,3 @@ php, MySQL, HTML, Javascript, CSS, jQuery, Boostrap, SASS, Composer, Laravel, Mo
   - <https://www.twitch.tv/hynix32b>
   - <https://www.pinterest.com/hynix32b>
   - <https://open.spotify.com/user/hynix32b>
-
-
-## Contact
-  Email: naruebet@gmail.com
-  Phone: +66 87-189-2055
