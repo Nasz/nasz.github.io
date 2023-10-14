@@ -59,6 +59,7 @@ ___
 
 #### วิธีถอนการติดตั้ง
 ลบไฟล์ `zSDThai_P.pak`{: .filepath} ออกจากโฟลเดอร์ `{SteamLibrary}\steamapps\common\Sengoku Dynasty\SengokuDynasty\Content\Paks\~mods`{: .filepath}
+
 ___
 
 ## ขอขอบคุณ
