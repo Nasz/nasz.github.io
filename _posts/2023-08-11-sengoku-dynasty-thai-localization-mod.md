@@ -19,6 +19,7 @@ tags: [Game, Mod, Unreal, Community]
 #### ภาพตัวอย่าง
 ![image](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/assets/384751/6ca9ef73-8ea9-40fb-afd8-edba379ef6a5){: width="790" height="444" }
 ![image](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/assets/384751/147a48df-50a3-40ba-aaf5-08d427764627){: width="790" height="444" }
+![image](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/assets/384751/7b9c00e8-a9bb-4bd9-9f51-d687990e2e2d){: width="790" height="444" }
 
 #### Roadmap
   1. แกะไฟล์ภาษาต้นฉบับออกมา (เสร็จแล้ว)
