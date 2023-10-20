@@ -3,7 +3,7 @@ title: Sengoku Dynasty Thai Mod
 author: nasz
 date: 2023-08-11 00:34:00 +0700
 categories: [Localization, Mod]
-tags: [Game, Mod, Unreal, Community]
+tags: [Game, Mod, Unreal, Community, WIP]
 ---
 
 ## ม็อดภาษาไทยสำหรับเกม เซนโกคุ ไดนาสตี้ (ความสมบูรณ์ 91.12%)

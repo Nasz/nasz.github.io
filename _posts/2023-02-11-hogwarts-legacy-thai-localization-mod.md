@@ -3,7 +3,7 @@ title: Hogwarts Legacy Thai Mod
 author: nasz
 date: 2023-02-11 20:55:00 +0700
 categories: [Localization, Mod]
-tags: [Game, Mod, Unreal, Community]
+tags: [Game, Mod, Unreal, Community, WIP]
 ---
 
 ม็อดภาษาไทยสำหรับเกม Hogwarts Legacy ภาษาไทย 77% เวอร์ชันคอมมูนิตี้ 
