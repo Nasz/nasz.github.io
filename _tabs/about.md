@@ -48,11 +48,11 @@ php, MySQL, HTML, Javascript, CSS, jQuery, Boostrap, SASS, Composer, Laravel, Mo
 | A Company Website Builder | xhibiz.com | Full Service | 2019 | 2021|
 | Siamphone Dot Com | siamphone.com | Full Service | 2008 | 2019|
 | Northern Synchronize Website | northsync.com | Full Service | 2008 | 2011|
-| Information System Community Webboard | isbanetwork.net | Administrator | 2007 | 2009|
+| Information System Webboard | isbanetwork.net | Administrator | 2007 | 2009|
 | ศูนย์ส่งเสริมและพัฒนาอาชีวศึกษาภาคเหนือ | nsdv.go.th | Administrator | 2006 | 2007|
 
 ## Contact
-  Email: naruebet@gmail.com
+  Email: naruebet@gmail.com <br />
   Phone: +66 87-189-2055
 
 ## Social Network
