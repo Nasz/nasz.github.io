@@ -47,11 +47,7 @@ tags: [Game, Mod, Unreal, Community, WIP]
   + [Spider-Translate](https://www.facebook.com/SpiderTranslate)
   + [Thamolwan Khumprakob](https://www.facebook.com/jobjab.khumprakob)
   + [Wongpanithan C.](https://instagram.com/niitanc?igshid=NzAzN2Q1NTE=)
-  + [ทานสเลด](https://www.facebook.com/TransladeThai)
-  + [ว่างๆก็หาเกมมาแปล](https://www.facebook.com/lazymodthai)
-  + [แปลไปไกลๆ](https://www.facebook.com/Abaponnaja/)
-  + [แปลเองก็ได้](https://www.facebook.com/translatekordai)
-
+  
 ## ลิงก์ไปยังโปรเจค
 <https://github.com/Nasz/Hogwarts-Legacy-Thai-Localization-Mod/>
 
