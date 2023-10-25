@@ -2,11 +2,14 @@
 title: Hogwarts Legacy Thai Mod
 author: nasz
 date: 2023-02-11 20:55:00 +0700
+image:
+  path: https://i.ytimg.com/vi_webp/hBrTnAiihW8/maxresdefault.webp
+  alt: "ม็อดภาษาไทยฮอกวอตส์เลกาซี"
 categories: [Localization, Mod]
 tags: [Game, Mod, Unreal, Community, WIP]
 ---
 
-ม็อดภาษาไทยสำหรับเกม Hogwarts Legacy ภาษาไทย 77% เวอร์ชันคอมมูนิตี้ 
+ม็อดภาษาไทยสำหรับเกม Hogwarts Legacy ภาษาไทย 74.16% เวอร์ชันคอมมูนิตี้ 
 
   - ทีมคอมมูนิตี้ยังไม่มีโครงการสำหรับทำพากษ์เสียงภาษาไทย (เนื่องจากยังแปลกันไม่เสร็จ)
   - Font เวอร์ชันที่แจกใน Github อาจจะไม่เหมือนที่แจกบน Nexusmod
