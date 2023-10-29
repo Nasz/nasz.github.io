@@ -4,7 +4,7 @@ author: nasz
 date: 2023-04-04 13:04:00 +0700
 image:
   path: https://github.com/Nasz/Cities-Skylines-Thai-Localization-Mod/assets/384751/b08e3ace-7b5c-4835-a9ff-6fb46876fb9a
-  alt: "ม็อดภาษาไทยซิตีส์สกายไลน์"
+  alt: "ม็อดภาษาไทยซิตีสกายไลน์"
 categories: [Localization, Mod]
 tags: [Game, Mod, Unity, Community]
 ---

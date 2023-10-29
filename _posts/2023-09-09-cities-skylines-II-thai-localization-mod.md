@@ -4,7 +4,7 @@ author: nasz
 date: 2023-09-09 19:56:00 +0700
 image:
   path: https://github.com/Nasz/CS2THMod/assets/384751/9c5eb6fa-7199-427b-862c-0d55de8b5216
-  alt: "ม็อดภาษาไทยซิตีส์สกายไลน์ 2"
+  alt: "ม็อดภาษาไทยซิตีสกายไลน์ 2"
 categories: [Localization, Mod]
 tags: [Game, Mod, Unity, Community]
 ---
@@ -31,10 +31,10 @@ tags: [Game, Mod, Unity, Community]
 
 ## ความคืบหน้า
 
-  | File(s)             | English      | Thai (Localized) | Untouched     | TOTAL |
-  |---------------------|:-------------|:-----------------|:--------------|:------|
-  | GameUI              | 8635(93.19%) | 441(4.76%)       | 190(2.05%)    | 9266  |
-  | ModsUI              | 326(92.35%)  | 0(0%)            | 27(7.65%)     | 353   |
+  | File(s)             | English       | Thai (Localized) | Untouched     | TOTAL |
+  |---------------------|:--------------|:-----------------|:--------------|:------|
+  | GameUI              | 16111(98.83%) | 454(2.79%)       | 190(1.17%)    | 16301 |
+  | ModsUI              | 326(92.35%)   | 0(0%)            | 27(7.65%)     | 353   |
 
 #### ลิงก์ไปยังโปรเจค
   <https://github.com/Nasz/CS2THMod/>
