@@ -11,7 +11,7 @@ tags: [Game, Mod, Unity, Community]
 
   ม็อดภาษาไทยให้กับเกม Cities: Skyline II (ชื่อไทย ซิตี: สกายไลน์ ๒)
 
-  > ตอนนี้ยังไม่สามารถนำคำกลับเข้าไปใส่ในเกมได้ครับ
+  > การติดตั้งยังต้องทำแบบแมนวล และภาษายังไม่สมบูรณ์ครับ
   {: .prompt-info }
 
   รวมแปลกับเราได้ที่ <https://discord.gg/HSYPKfdJfr>
@@ -19,7 +19,7 @@ tags: [Game, Mod, Unity, Community]
 #### Roadmap
   1. แกะไฟล์ภาษาต้นฉบับออกมา (เสร็จแล้ว)
   2. หากลศาสตร์ในการเพิ่มภาษาไทยลงไปในตัวเกม (อยู่ระหว่างดำเนินการ)
-  3. แยกหมวดหมู่ + จัดเรียง + แปลเบื้องต้น (เสร็จแล้ว)
+  3. แยกหมวดหมู่ + จัดเรียง + ทดลองแปล (เสร็จแล้ว)
   4. แปลเมนูหลัก ส่วนการตั้งค่า และ UI เบื้องต้น
   5. แปลส่วนคืบหน้าของเกม Milestone หรือส่วน Progression
   6. แปลสิ่งก่อสร้างทั่วไป ถนน บ้าน ร้านค้า อุตหกรรม
@@ -33,7 +33,7 @@ tags: [Game, Mod, Unity, Community]
 
   | File(s)             | English       | Thai (Localized) | Untouched     | TOTAL |
   |---------------------|:--------------|:-----------------|:--------------|:------|
-  | GameUI              | 16103(98.79%) | 1647(10.10%)     | 198(1.21%)    | 16301 |
+  | GameUI              | 16097(98.75%) | 2279(13.98%)     | 204(1.25%)    | 16301 |
   | ModsUI              | 326(92.35%)   | 0(0%)            | 27(7.65%)     | 353   |
 
 #### ลิงก์ไปยังโปรเจค
@@ -54,13 +54,16 @@ tags: [Game, Mod, Unity, Community]
   Github version: เร็ว ๆ นี้
 
 #### วิธีติดตั้ง
-  1. เข้าไปที่โฟลเดอร์ `{SteamLibrary}\steamapps\common\Cities Skylines II\Cities2_Data\StreamingAssets\Data~`{: .filepath}
-  2. เปลี่ยนชื่อไฟล์ `en-US.loc`{: .filepath} เป็น `en-US.loc.back`{: .filepath}
-  3. นำไฟล์ `en-US.loc`{: .filepath} ที่ได้จากการดาวน์โหลดไปวางไว้ในนั้น
+  1. ดาวน์โหลดไฟล์ `ru-RU.loc`{: .filepath} 
+  2. เข้าไปที่โฟลเดอร์ `{SteamLibrary}\steamapps\common\Cities Skylines II\Cities2_Data\StreamingAssets\Data~`{: .filepath}
+  3. เปลี่ยนชื่อไฟล์ `ru-RU.loc`{: .filepath} เป็น `ru-RU.loc.back`{: .filepath}
+  4. นำไฟล์ `ru-RU.loc`{: .filepath} ที่ได้จากการดาวน์โหลดไปวางไว้ในโฟลเดอร์ดังกล่าว
+  5. เข้าเกม ที่เมนู Options > Interface > Language ตรงดรอปดาวให้เลือกเป็นภาษาไทย
 
 #### วิธีถอนการติดตั้ง
-  1. ลบไฟล์ `en-US.loc`{: .filepath}
-  2. เปลี่ยนชื่อไฟล์ `en-US.loc.back`{: .filepath} กลับไปเป็น `en-US.loc`{: .filepath}
+  1. เข้าเกม แล้วเปลี่ยนภาษากลับไปเป็น English ก่อนจากนั้นปิดเกม
+  2. เข้าไปที่โฟลเดอร์ `{SteamLibrary}\steamapps\common\Cities Skylines II\Cities2_Data\StreamingAssets\Data~`{: .filepath} แล้วลบไฟล์ `ru-RU.loc`{: .filepath} ออก
+  3. เปลี่ยนชื่อไฟล์ `ru-RU.loc.back`{: .filepath} กลับไปเป็น `ru-RU.loc`{: .filepath}
 
   ขอให้สนุกกับการเล่นเกม Cities: Skylines II
 
