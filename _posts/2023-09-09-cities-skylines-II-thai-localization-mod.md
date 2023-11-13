@@ -27,7 +27,10 @@ tags: [Game, Mod, Unity, Community]
   8. แปลบททวิตของเจี๊ยบเปอร์และพลเมืองที่ติดตาม
   
 #### ภาพตัวอย่าง
-  เร็ว ๆ นี้
+   ![image](https://github.com/Nasz/CS2THMod/assets/384751/dbc5b692-8ae9-4911-8d36-4185f8674eeb){: width="790" height="444" }
+  _หน้าเมนูหลัก_
+   ![image](https://github.com/Nasz/CS2THMod/assets/384751/72c6572d-0b3a-4153-9113-01bd3e006b6d){: width="790" height="444" }
+  _หน้าความก้าวหน้าในส่วนของแผนผังการพัฒนา_
 
 ## ความคืบหน้า
 
