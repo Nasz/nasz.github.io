@@ -9,7 +9,7 @@ categories: [Localization, Mod]
 tags: [Game, Mod, Unity, Community]
 ---
 
-  ม็อดภาษาไทยให้กับเกม Cities: Skyline II (ชื่อไทย ซิตี: สกายไลน์ ๒)
+  ม็อดภาษาไทยให้กับเกม Cities: Skylines II (ชื่อไทย ซิตี: สกายไลน์ ๒)
 
   > การติดตั้งยังต้องทำแบบแมนวล และภาษายังไม่สมบูรณ์ครับ ไฟล์เวอร์ชันทดลองแจกในดิสคอร์ดครับ
   {: .prompt-info }
@@ -36,7 +36,7 @@ tags: [Game, Mod, Unity, Community]
 
   | File(s)             | English       | Thai (Localized) | Untouched     | TOTAL |
   |---------------------|:--------------|:-----------------|:--------------|:------|
-  | GameUI              | 4697(28.31%)  | 11646(70.19%)    | 248(1.49%%)   | 16593 |
+  | GameUI              | 4665(28.11%)  | 11677(70.37%)    | 251(1.51%)    | 16593 |
   | ModsUI              | 166(47.03%)   | 160(45.33%)      | 27(7.65%)     | 353   |
 
 #### ลิงก์ไปยังโปรเจค
@@ -46,6 +46,11 @@ tags: [Game, Mod, Unity, Community]
   - [Bammcool](https://steamcommunity.com/id/bammcool2546)
   - [N7C](https://steamcommunity.com/id/n7c_th)
 
+## ร่วมแปลโดย
+  - [Ca7amel](https://www.facebook.com/SugusPR/)
+  - [Mazokie](https://steamcommunity.com/id/Mazokie/)
+  - [Solutiongamer](https://www.facebook.com/Solutiongamer)
+
 #### ที่ปรึกษา
   - [Bell](https://steamcommunity.com/id/bellraksit/)
   - [Chamëleon TBN](https://steamcommunity.com/id/chameleon_tbn/)
@@ -53,9 +58,9 @@ tags: [Game, Mod, Unity, Community]
   - [Simscolony](https://steamcommunity.com/id/animenagi)
 
 ## ดาวน์โหลด
-  Paradox Mods: เร็ว ๆ นี้ที่ <https://mods.paradoxplaza.com/><br/>
-  Nexus Mods: <https://www.nexusmods.com/citiesskylines2/mods/22>
-  Github version: เร็ว ๆ นี้
+  Github version: เร็ว ๆ นี้<br/>
+  Nexus Mods: <https://www.nexusmods.com/citiesskylines2/mods/22><br/>
+  Paradox Mods: เร็ว ๆ นี้ที่ <https://mods.paradoxplaza.com/>
 
 #### วิธีติดตั้ง
   1. ดาวน์โหลดไฟล์ `ru-RU.loc`{: .filepath} 
