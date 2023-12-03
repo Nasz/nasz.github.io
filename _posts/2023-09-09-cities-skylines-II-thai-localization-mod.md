@@ -41,10 +41,10 @@ tags: [Game, Mod, Unity, Community]
   | GameUI              | 4353(26.06%)  | 12096(72.42%)    | 254(1.52%)    | 16703 |
   | ModsUI              | 166(47.03%)   | 160(45.33%)      | 27(7.65%)     | 353   |
 
-#### ลิงก์ไปยังโปรเจค
+#### ลิงก์ไปยังโปรเจกต์
   <https://github.com/Nasz/CS2THMod/>
 
-## ดูแลโปรเจคโดย 
+## ดูแลโปรเจกต์โดย 
   - [Bammcool](https://steamcommunity.com/id/bammcool2546)
   - [N7C](https://steamcommunity.com/id/n7c_th)
 
@@ -74,7 +74,7 @@ tags: [Game, Mod, Unity, Community]
   5. เข้าเกม ที่เมนู Options > Interface > Language ตรงดรอปดาวให้เลือกเป็นภาษาไทย
 
 #### วิธีถอนการติดตั้ง
-  1. เข้าเกม แล้วเปลี่ยนภาษากลับไปเป็น English ก่อนจากนั้นปิดเกม
+  1. เข้าเกม แล้วเปลี่ยนภาษากลับไปเป็น English ก่อน จากนั้นปิดเกม
   2. เข้าไปที่โฟลเดอร์ `{SteamLibrary}\steamapps\common\Cities Skylines II\Cities2_Data\StreamingAssets\Data~`{: .filepath} แล้วลบไฟล์ `ru-RU.loc`{: .filepath} ออก
   3. เปลี่ยนชื่อไฟล์ `ru-RU.loc.back`{: .filepath} กลับไปเป็น `ru-RU.loc`{: .filepath}
 

@@ -51,7 +51,7 @@ tags: [Game, Mod, Unreal, Community, WIP]
   + [Thamolwan Khumprakob](https://www.facebook.com/jobjab.khumprakob)
   + [Wongpanithan C.](https://instagram.com/niitanc?igshid=NzAzN2Q1NTE=)
   
-## ลิงก์ไปยังโปรเจค
+## ลิงก์ไปยังโปรเจกต์
 <https://github.com/Nasz/Hogwarts-Legacy-Thai-Localization-Mod/>
 
 ## ดาวน์โหลด

@@ -6,7 +6,7 @@ categories: [Localization, Mod]
 tags: [Game, Mod, Unreal, Community, WIP]
 ---
 
-## ม็อดภาษาไทยสำหรับเกม เซนโกคุ ไดนาสตี้ (ความสมบูรณ์ 91.12%)
+## ม็อดภาษาไทยสำหรับเกม เซนโกคุ ไดนาสตี้ (ความสมบูรณ์ 93.05%)
 
 **This mod for Early Access Game version 0.2.0.2 only** 
 
@@ -43,7 +43,7 @@ ___
 [Github](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/releases/latest) <br/>
 `*ไฟล์ม็อดอาจมีการการอัปเดตบ่อยกว่าปกติ` `*จะพยายามอัปเดตทุกครั้งที่มีการปรับแก้ไขคำแปล`
 
-#### ลิงก์ไปยังโปรเจค
+#### ลิงก์ไปยังโปรเจกต์
  ชอร์จโค๊ต<br/>
   [https://github.com/](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod) 
 
