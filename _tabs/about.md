@@ -23,10 +23,7 @@ php, MySQL, HTML, Javascript, CSS, jQuery, Boostrap, SASS, Composer, Laravel, Mo
 |-------------------------------|:----------------------------|:-----------------|:------|
 | Talk Trendy                   | <https://talktrendy.net>    | Full Service     | 2019  |
 | Discuz!XYNC                   | <https://discuzxync.com>    | Full Service     | 2015  |
-| Sumoto Corp                   | <https://sumotocorp.com>    | Coordinate       | 2020  |
 | Eureka School                 | <https://eureka-school.com> | Coordinate       | 2020  |
-| The Agenda Thai (News Agency) | <https://theagendathai.com> | DNS Service      | 2020  |
-| Sumoto Corp                   | <https://sumotocorp.co.th>  | DNS Service      | 2020  |
 
 ## Pass project
 
