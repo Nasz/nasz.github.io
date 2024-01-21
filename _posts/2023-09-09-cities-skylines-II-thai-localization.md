@@ -1,10 +1,10 @@
 ---
-title: "Cities: Skylines II Thai Mod"
+title: "Cities: Skylines II Thai Localization"
 author: nasz
 date: 2023-09-09 19:56:00 +0700
 image:
   path: https://github.com/Nasz/CS2THMod/assets/384751/9c5eb6fa-7199-427b-862c-0d55de8b5216
-  alt: "ม็อดภาษาไทยซิตีสกายไลน์ 2"
+  alt: "ภาษาไทยซิตีสกายไลน์ 2"
 categories: [Localization, Mod]
 tags: [Game, Mod, Unity, Community]
 ---
@@ -38,7 +38,7 @@ tags: [Game, Mod, Unity, Community]
 
   | File(s)             | English       | Thai (Localized) | Untouched     | TOTAL |
   |---------------------|:--------------|:-----------------|:--------------|:------|
-  | GameUI              | 3971(23.77%)  | 12477(74.67%)    | 261(1.56%)    | 16709 |
+  | GameUI              | 3969(23.75%)  | 12479(74.68%)    | 261(1.56%)    | 16709 |
   | ModsUI              | 166(47.03%)   | 160(45.33%)      | 27(7.65%)     | 353   |
 
 #### ลิงก์ไปยังโปรเจกต์

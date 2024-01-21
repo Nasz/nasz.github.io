@@ -1,5 +1,5 @@
 ---
-title: Hogwarts Legacy Thai Mod
+title: Hogwarts Legacy Thai Localization
 author: nasz
 date: 2023-02-11 20:55:00 +0700
 image:

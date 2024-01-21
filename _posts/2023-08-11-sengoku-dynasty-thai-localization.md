@@ -1,5 +1,5 @@
 ---
-title: Sengoku Dynasty Thai Mod
+title: Sengoku Dynasty Thai Localization
 author: nasz
 date: 2023-08-11 00:34:00 +0700
 categories: [Localization, Mod]
