@@ -38,7 +38,7 @@ tags: [Game, Mod, Unity, Community]
 
   | File(s)             | English       | Thai (Localized) | Untouched     | TOTAL |
   |---------------------|:--------------|:-----------------|:--------------|:------|
-  | GameUI              | 3953(23.66%)  | 12495(74.78%)    | 261(1.56%)    | 16709 |
+  | GameUI              | 3946(23.62%)  | 12502(74.82%)    | 261(1.56%)    | 16709 |
   | ModsUI              | 120(33.99%)   | 206(58.36%)      | 27(7.65%)     | 353   |
 
 #### ลิงก์ไปยังโปรเจกต์
@@ -64,7 +64,7 @@ tags: [Game, Mod, Unity, Community]
 ## ดาวน์โหลด
   Github version: เร็ว ๆ นี้<br/>
   Nexus Mods: <https://www.nexusmods.com/citiesskylines2/mods/22><br/>
-  Paradox Mods: เร็ว ๆ นี้ที่ <https://mods.paradoxplaza.com/>
+  Paradox Mods: เร็ว ๆ นี้ที่ <https://mods.paradoxplaza.com/games/cities_skylines_2>
 
 #### วิธีติดตั้ง
   1. ดาวน์โหลดไฟล์ `ru-RU.loc`{: .filepath} 
