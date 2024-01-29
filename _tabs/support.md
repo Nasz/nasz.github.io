@@ -4,8 +4,6 @@ icon: fas fa-hand-holding-medical
 order: 5
 ---
 
-Please feel free to donate to me.
-
 <div class="container text-center">
   <div class="row align-items-center">
     <div class="col">
