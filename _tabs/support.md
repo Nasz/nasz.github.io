@@ -4,6 +4,8 @@ icon: fas fa-hand-holding-medical
 order: 5
 ---
 
+Please feel free to donate to me.
+
 <div class="container text-center">
   <div class="row align-items-center">
     <div class="col">
@@ -21,3 +23,5 @@ order: 5
  <br/>
 
 ![PromptPay](https://assets.naruebet.dev/img/PromptPay.webp){: w="184" h="234"}
+
+Thank you for your support.
