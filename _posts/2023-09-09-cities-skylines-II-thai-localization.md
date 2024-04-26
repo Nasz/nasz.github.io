@@ -18,7 +18,7 @@ tags: [Game, Mod, Unity, Community]
 
 #### Roadmap
   1. แกะไฟล์ภาษาต้นฉบับออกมา (เสร็จแล้ว)
-  2. หากลศาสตร์ในการเพิ่มภาษาไทยลงไปในตัวเกม (รอทาง CO ประกาศ API)
+  2. หากลศาสตร์ในการเพิ่มภาษาไทยลงไปในตัวเกม (เสร็จแล้ว)
   3. แยกหมวดหมู่ + จัดเรียง + ทดลองแปล (เสร็จแล้ว)
   4. แปลเมนูหลัก ส่วนการตั้งค่า และ UI เบื้องต้น (เสร็จแล้ว)
   5. แปลส่วนคืบหน้าของเกม ความก้าวหน้า ผังการพัฒนา และเป้าหมายสำคัญ (เสร็จแล้ว)
@@ -38,7 +38,7 @@ tags: [Game, Mod, Unity, Community]
 
   | File(s)             | English       | Thai (Localized) | Untouched     | TOTAL |
   |---------------------|:--------------|:-----------------|:--------------|:------|
-  | GameUI              | 2020(11.99%)  | 14490(86.00%)    | 339(2.01%)    | 16849 |
+  | GameUI              | 2704(15.41%)  | 14506(82.66%)    | 339(1.93%)    | 17549 |
   | ModsUI              | 103(29.18%)   | 223(63.17%)      | 27(7.65%)     | 353   |
 
 #### ลิงก์ไปยังโปรเจกต์
@@ -61,10 +61,13 @@ tags: [Game, Mod, Unity, Community]
   - [PanlopPalms](https://steamcommunity.com/id/armsplams)
   - [Simscolony](https://steamcommunity.com/id/animenagi)
 
+#### ขอขอบคุณ
+  - [Den](https://github.com/minenkoden)
+
 ## ดาวน์โหลด
-  Github version: เร็ว ๆ นี้<br/>
+  Paradox Mods: <https://mods.paradoxplaza.com/mods/79578/Windows><br/>
   Nexus Mods: <https://www.nexusmods.com/citiesskylines2/mods/22><br/>
-  Paradox Mods: เร็ว ๆ นี้ที่ <https://mods.paradoxplaza.com/games/cities_skylines_2>
+  Github version: เร็ว ๆ นี้
 
 #### วิธีติดตั้ง
   1. ดาวน์โหลดไฟล์ `ru-RU.loc`{: .filepath} 
