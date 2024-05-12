@@ -6,7 +6,7 @@ image:
   path: https://github.com/Nasz/CS2THMod/assets/384751/9c5eb6fa-7199-427b-862c-0d55de8b5216
   alt: "ภาษาไทยซิตีสกายไลน์ 2"
 categories: [Localization, Mod]
-tags: [Game, Mod, Unity, Community]
+tags: [Game, Mod, Unity, Community, WIP]
 ---
 
   ม็อดภาษาไทยให้กับเกม Cities: Skylines II (ชื่อไทย ซิตี: สกายไลน์ ๒)
