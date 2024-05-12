@@ -3,7 +3,7 @@ title: Sengoku Dynasty Thai Localization
 author: nasz
 date: 2023-08-11 00:34:00 +0700
 categories: [Localization, Mod]
-tags: [Game, Mod, Unreal, Community, WIP]
+tags: [Game, Mod, Unreal, WIP]
 ---
 
 ## ม็อดภาษาไทยสำหรับเกม เซนโกคุ ไดนาสตี้ (ความสมบูรณ์ 82.79%)
@@ -27,7 +27,6 @@ tags: [Game, Mod, Unreal, Community, WIP]
 - [ ] นำเอาคำแปลเบื้องต้นออก
 - [x] แปลในส่วนของ UI (เสร็จแล้ว + แปลใหม่บางส่วนเนื่องจากมีการอัปเดตคำเพิ่มเติม)
 - [ ] แปลบทสนทนาโต้ตอบ (อยู่ระหว่างดำเนินการ)
-- [x] เปิดเผยเอกสารงานแปลให้ผู้ใช้ทั่วไปเข้าร่วมแปลได้ (เสร็จแล้ว)
 
 ## ความคืบหน้า
 
@@ -46,9 +45,6 @@ ___
 #### ลิงก์ไปยังโปรเจกต์
  ชอร์จโค๊ต<br/>
   [https://github.com/](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod) 
-
- ไฟล์แปล<br/>
-  [https://docs.google.com](https://docs.google.com/spreadsheets/d/1uhrjuo0ukRl11h9BHCHa1qItBJbcUuGYTXwsVe2GGLk/edit?usp=sharing)
 
  กลุ่มเฟซบุ๊ค<br/>
   [https://www.facebook.com](https://www.facebook.com/groups/823501699452530)
