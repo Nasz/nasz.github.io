@@ -11,6 +11,7 @@ tags: [Game, Mod, Unreal, WIP]
   {: .prompt-info }
 
 #### ภาพตัวอย่าง
+  <เร็ว ๆ นี้>
 
 ## ความคืบหน้า
 
@@ -19,11 +20,9 @@ tags: [Game, Mod, Unreal, WIP]
 | Game             | 22908(74.74%) | 7668(25.02%)     | 73(0.24%)      | 30649 |
 
 #### ลิงก์ไปยังโปรเจกต์
-
-<https://github.com/Nasz/MedievalDynastyTHLocale>
+[Github](https://github.com/Nasz/MedievalDynastyTHLocale)
 
 ## ดาวน์โหลด
-
 [Latest](https://github.com/Nasz/MedievalDynastyTHLocale/releases/latest)
 
 #### วิธีติดตั้ง
@@ -35,5 +34,7 @@ tags: [Game, Mod, Unreal, WIP]
   ลบไฟล์ `zMDThai.pak`{: .filepath} ออกจากโฟลเดอร์ `{SteamLibrary}\steamapps\common\\Medieval Dynasty\Medieval_Dynasty\Content\Paks\~mods`{: .filepath}
 
 #### บันทึกการเปลี่ยนแปลง
+  v1.0 ใช้กับเกมเวอร์ชัน 2.0.2.x
 
 #### ลิงก์ที่เกี่ยวข้อง
+  <เร็ว ๆ นี้>

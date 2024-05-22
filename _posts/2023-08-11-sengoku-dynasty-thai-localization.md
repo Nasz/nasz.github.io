@@ -63,7 +63,7 @@ ___
 ___
 
 ## ลิงก์ที่เกี่ยวข้อง
-+ Sengoku Dynasty: [Steam](https://store.steampowered.com/app/1702010/)
-+ Sriracha (OFL) โดย [คัดสรรดีมาก](https://www.cadsondemak.com/)
-+ Noto Sans Thai (OFL) โดย [กูเกิล](https://fonts.google.com/noto)
-+ Droid Sans Thai (Apache 2.0) โดย [Steve Matterson](https://en.wikipedia.org/wiki/Droid_(typeface))
+  + Sengoku Dynasty: [Steam](https://store.steampowered.com/app/1702010/)
+  + Sriracha (OFL) โดย [คัดสรรดีมาก](https://www.cadsondemak.com/)
+  + Noto Sans Thai (OFL) โดย [กูเกิล](https://fonts.google.com/noto)
+  + Droid Sans Thai (Apache 2.0) โดย [Steve Matterson](https://en.wikipedia.org/wiki/Droid_(typeface))
