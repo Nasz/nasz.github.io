@@ -1,7 +1,8 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+# Hi there ![](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 I am a Full Stack Web Developer from Thailand.
-- :runner: I’m working as a Website Development and Website Administrators.
+
+- :runner: I'm working as a Website Development and Website Administrators.
 - :seedling: Exploring Technical Optimize for Coding.
 - :eyes: In my free time, I making a game mod for Thai player.
 

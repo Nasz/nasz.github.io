@@ -63,7 +63,7 @@ QQกลุ่มแฟนคลับ：[181616145](https://qm.qq.com/cgi-bin/q
 QQกลุ่มสำรอง(หากกลุ่มบนเต็ม)：15326940(ภาษาจีน)<br />
 กลุ่มผู้ใช้งานชาวไทย [Discord](https://discord.com/invite/faSzs3geux)(ภาษาไทย)
 
-## เว็บไซต์ที่เกี่ยวข้อง 
+#### ลิงก์ที่เกี่ยวข้อง
 * [Git เป็นทางการของ Discuz! X](https://gitee.com/Discuz/DiscuzX)(เข้าได้เฉพาะ IP จีน)
 * [ชุมชนอย่างเป็นทางการของ Discuz!](https://www.dismall.com/)(ภาษาจีน)
 * [Discuz! แอปเซนเตอร์](https://addon.dismall.com/)(ภาษาจีน)

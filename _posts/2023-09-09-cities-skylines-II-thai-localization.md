@@ -38,7 +38,7 @@ tags: [Game, Mod, Unity, Community, WIP]
 
   | File(s)             | English       | Thai (Localized) | Untouched     | TOTAL |
   |---------------------|:--------------|:-----------------|:--------------|:------|
-  | GameUI              | 1616(9.17%)   | 15645(88.78%)    | 361(2.05%)    | 17622 |
+  | GameUI              | 1567(8.89%)   | 15694(89.06%)    | 361(2.05%)    | 17622 |
   | ModsUI              | 172(41.55%)   | 218(52.66%)      | 24(5.80%)     | 414   |
 
 #### ลิงก์ไปยังโปรเจกต์
@@ -65,24 +65,24 @@ tags: [Game, Mod, Unity, Community, WIP]
   - [Den](https://github.com/minenkoden)
 
 ## ดาวน์โหลด
-  Paradox Mods: <https://mods.paradoxplaza.com/mods/79578/Windows><br/>
-  Nexus Mods: <https://www.nexusmods.com/citiesskylines2/mods/22>
+  [Paradox Mods](https://mods.paradoxplaza.com/mods/79578/Windows)*สำหรับคนที่ไม่ต้องการอัปเดทไฟล์เอง*<br/>
+  [Nexus Mods](https://www.nexusmods.com/citiesskylines2/mods/22)*สำหรับคนที่ต้องการเล่นพร้อมระบบ Steam Achievements*
 
-#### วิธีติดตั้งแบบแมนวล
+#### วิธีติดตั้งสำหรับคนที่ต้องการเล่นพร้อมระบบ Steam Achievements
   1. ดาวน์โหลดไฟล์ `ru-RU.loc`{: .filepath} 
   2. เข้าไปที่โฟลเดอร์ `{SteamLibrary}\steamapps\common\Cities Skylines II\Cities2_Data\StreamingAssets\Data~`{: .filepath}
   3. เปลี่ยนชื่อไฟล์ `ru-RU.loc`{: .filepath} เป็น `ru-RU.loc.back`{: .filepath}
   4. นำไฟล์ `ru-RU.loc`{: .filepath} ที่ได้จากการดาวน์โหลดไปวางไว้ในโฟลเดอร์ดังกล่าว
   5. เข้าเกม ที่เมนู Options > Interface > Language ตรงดรอปดาวให้เลือกเป็นภาษาไทย
 
-#### วิธีถอนการติดตั้งแบบแมนวล
+#### วิธีถอนการติดตั้งสำหรับคนที่ตั้งไฟล์ .loc
   1. เข้าเกม แล้วเปลี่ยนภาษากลับไปเป็น English ก่อน จากนั้นปิดเกม
   2. เข้าไปที่โฟลเดอร์ `{SteamLibrary}\steamapps\common\Cities Skylines II\Cities2_Data\StreamingAssets\Data~`{: .filepath} แล้วลบไฟล์ `ru-RU.loc`{: .filepath} ออก
   3. เปลี่ยนชื่อไฟล์ `ru-RU.loc.back`{: .filepath} กลับไปเป็น `ru-RU.loc`{: .filepath}
 
   ขอให้สนุกกับการเล่นเกม Cities: Skylines II
 
-## ขอขอบคุณ
+## ลิงก์ที่เกี่ยวข้อง
   + Cities: Skylines II [Steam](https://store.steampowered.com/app/949230/Cities_Skylines_II/)
   + Facebook Group [Cities: Skylines Thailand](https://www.facebook.com/groups/CitiesSkylinesThailand)
   + Facebook Fanpage [Cities: Skylines Thailand](https://www.facebook.com/CSGameTH)

@@ -52,14 +52,17 @@ ___
 ___
 
 #### วิธีติดตั้ง
-สร้างโฟลเดอร์ `~mods`{: .filepath} ไว้ใน `{SteamLibrary}\steamapps\common\Sengoku Dynasty\SengokuDynasty\Content\Paks`{: .filepath} แล้วนำไฟล์ `zSDThai_P.pak`{: .filepath} ไปวางใว้ในนั้น
+  1. ดาวน์โหลดไฟล์ `zSDThai_P.pak`{: .filepath} เวอร์ชันที่ตรงกับตัวเกม 
+  2. สร้างโฟลเดอร์ `~mods`{: .filepath} ไว้ใน `{SteamLibrary}\steamapps\common\Sengoku Dynasty\SengokuDynasty\Content\Paks`{: .filepath}
+  3. นำไฟล์ `zSDThai_P.pak`{: .filepath} ไปวางใว้ใน `{SteamLibrary}\steamapps\common\Sengoku Dynasty\SengokuDynasty\Content\Paks\~mods`{: .filepath}
+  4. เมื่อเปิดเข้าเกม ตัวเกมที่เลือกภาษาอังกฤษอยู่จะถูกแทนที่ด้วยภาษาไทย หากเมนูยังเป็นภาษาอังกฤษ ให้เช็คตำแหน่งของโฟลเดอร์ว่าติดตั้งถูกต้องหรือไม่
 
 #### วิธีถอนการติดตั้ง
 ลบไฟล์ `zSDThai_P.pak`{: .filepath} ออกจากโฟลเดอร์ `{SteamLibrary}\steamapps\common\Sengoku Dynasty\SengokuDynasty\Content\Paks\~mods`{: .filepath}
 
 ___
 
-## ขอขอบคุณ
+## ลิงก์ที่เกี่ยวข้อง
 + Sengoku Dynasty: [Steam](https://store.steampowered.com/app/1702010/)
 + Sriracha (OFL) โดย [คัดสรรดีมาก](https://www.cadsondemak.com/)
 + Noto Sans Thai (OFL) โดย [กูเกิล](https://fonts.google.com/noto)

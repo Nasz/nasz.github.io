@@ -22,4 +22,4 @@ order: 5
 
 ![PromptPay](https://assets.naruebet.dev/img/PromptPay.webp){: w="184" h="234"}
 
-Thank you for your support.
+ขอบคุณสำหรับการสนับสนุนนะครับ Thank you for your support.

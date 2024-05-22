@@ -82,7 +82,7 @@ tags: [Game, Mod, Unity, Community]
 
 ขอให้สนุกกับการเล่นเกม Cities: Skylines 
 
-## ขอขอบคุณ
+## ลิงก์ที่เกี่ยวข้อง
   + Cities: Skylines [Steam](https://store.steampowered.com/app/255710/)
   + Facebook Group [Cities: Skylines Thailand](https://www.facebook.com/groups/CitiesSkylinesThailand)
   + Facebook Fanpage [Cities: Skylines Thailand](https://www.facebook.com/CSGameTH)
