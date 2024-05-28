@@ -1,7 +1,7 @@
 ---
 title: Bellwright Thai Localization
 author: nasz
-date: '2023-06-23 17:30:00 +0700'
+date: '2024-05-23 17:30:00 +0700'
 categories: [Localization, Mod]
 tags: [Game, Mod, Unreal, WIP]
 ---
@@ -29,8 +29,8 @@ tags: [Game, Mod, Unreal, WIP]
 - [x] แปลในส่วนของ UI (เสร็จแล้ว + แปลใหม่บางส่วนเนื่องจากมีเกมมีการอัปเดต)
 
 ### ลิงก์ไปยังโปรเจกต์
-  [Github](https://github.com/Nasz/BellwrightThaiLocalization)
-  [กลุ่มเฟซบุ๊ค](https://www.facebook.com/groups/1215435342455905)
+- [Github](https://github.com/Nasz/BellwrightThaiLocalization)
+- [กลุ่มเฟซบุ๊ค](https://www.facebook.com/groups/1215435342455905)
 
 ## ดาวน์โหลด
   [Nexus Mods](https://www.nexusmods.com/bellwright/mods/57)
