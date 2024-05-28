@@ -38,8 +38,8 @@ tags: [Game, Mod, Unreal, WIP]
 ___
 
 ## ดาวน์โหลด
-[NexusMods](https://www.nexusmods.com/sengokudynasty/mods/2) <br/>
-[Github](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/releases/latest) <br/>
+- [NexusMods](https://www.nexusmods.com/sengokudynasty/mods/2)
+- [Github](https://github.com/Nasz/Sengoku-Dynasty-Thai-Localization-Mod/releases/latest)
 `*ไฟล์ม็อดอาจมีการการอัปเดตบ่อยกว่าปกติ` `*จะพยายามอัปเดตทุกครั้งที่มีการปรับแก้ไขคำแปล`
 
 #### ลิงก์ไปยังโปรเจกต์
