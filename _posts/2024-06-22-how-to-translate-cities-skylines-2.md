@@ -26,9 +26,7 @@ This post use replace game support localization to you translate.
 ![image](https://github.com/Nasz/Nasz/assets/384751/849be85f-67cb-4e84-8332-818c5602debd)
 
 7. Run script with Terminal, first step script has create translate source file. open it and translate some text after equal sign.
-![image](https://github.com/Nasz/Nasz/assets/384751/c7ab3ad1-b22e-4801-8f2a-a0d7912babc3)
-
-![image](https://github.com/Nasz/Nasz/assets/384751/138a98ac-442a-4669-8dd0-c004524801ec)
+![image](https://github.com/Nasz/Nasz/assets/384751/c7ab3ad1-b22e-4801-8f2a-a0d7912babc3)![image](https://github.com/Nasz/Nasz/assets/384751/138a98ac-442a-4669-8dd0-c004524801ec)
 
 8. Back to Terminal and press Enter, script has generate new .loc file.
 ![image](https://github.com/Nasz/Nasz/assets/384751/99224111-9797-4f13-bfe3-c9b77ca121f6)
