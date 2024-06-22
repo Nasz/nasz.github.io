@@ -22,7 +22,7 @@ This post use replace game support localization to you translate.
 5. Open asdfgh.py and change line 40-41 to country code like 
 ![image](https://github.com/Nasz/Nasz/assets/384751/2a599490-e65d-47f3-80c3-767ac987348b)
 
-6. Change line 66-77 to your replace lang and soure like
+6. Change line 66-67 to your replace lang and soure like
 ![image](https://github.com/Nasz/Nasz/assets/384751/849be85f-67cb-4e84-8332-818c5602debd)
 
 7. Run script with Terminal, first step script has create translate source file. open it and translate some text after equal sign.
