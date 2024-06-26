@@ -33,11 +33,11 @@ tags: [Game, Mod, Unreal, WIP]
 
 #### วิธีติดตั้ง
   1. ดาวน์โหลดไฟล์ `Medieval_Dynasty-WindowsNoEditor_TH.pak`{: .filepath} เวอร์ชั่นที่ตรงกับตัวเกม
-  2. หากคุณใช้ UnrealModUnlocker ของ Illusory ให้นำไฟล์ `zMDThai.pak`{: .filepath} ไปวางไว้ใน โฟล์เดอร์ `{SteamLibrary}\steamapps\common\\Medieval Dynasty\Medieval_Dynasty\Content\Paks\~mods`{: .filepath} 
+  2. หากคุณใช้ UnrealModUnlocker ของ Illusory ให้นำไฟล์ `Madieval_Dynasty-WindowsNoEditor_TH.pak`{: .filepath} ไปวางไว้ใน โฟล์เดอร์ `{SteamLibrary}\steamapps\common\Medieval Dynasty\Medieval_Dynasty\Content\Paks\~mods`{: .filepath} 
   3. เมื่อเปิดเข้าเกม ตัวเกมที่เลือกภาษาอังกฤษอยู่จะถูกแทนที่ด้วยภาษาไทย หากเมนูยังเป็นภาษาอังกฤษ ให้เช็คการติดตั้ง ModUnlocker ของคุณและตำแหน่งของโฟลเดอร์ว่าติดตั้งถูกต้องหรือไม่
 
 #### วิธีถอนการติดตั้ง
-  ลบไฟล์ `Medieval_Dynasty-WindowsNoEditor_TH.pak`{: .filepath} ออกจากโฟลเดอร์ `{SteamLibrary}\steamapps\common\\Medieval Dynasty\Medieval_Dynasty\Content\Paks\~mods`{: .filepath}
+  ลบไฟล์ `Medieval_Dynasty-WindowsNoEditor_TH.pak`{: .filepath} ออกจากโฟลเดอร์ `{SteamLibrary}\steamapps\common\Medieval Dynasty\Medieval_Dynasty\Content\Paks\~mods`{: .filepath}
 
 #### บันทึกการเปลี่ยนแปลง
   v0.1 ใช้กับเกมเวอร์ชัน 2.0.2.x
