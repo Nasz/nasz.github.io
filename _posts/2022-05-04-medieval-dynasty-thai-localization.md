@@ -39,6 +39,11 @@ tags: [Game, Mod, Unreal, WIP]
   2. หากคุณใช้ UnrealModUnlocker ของ Illusory ให้นำไฟล์ `Madieval_Dynasty-WindowsNoEditor_TH.pak`{: .filepath} ไปวางไว้ใน โฟล์เดอร์ `{SteamLibrary}\steamapps\common\Medieval Dynasty\Medieval_Dynasty\Content\Paks`{: .filepath} 
   3. เมื่อเปิดเข้าเกม ตัวเกมที่เลือกภาษาอังกฤษอยู่จะถูกแทนที่ด้วยภาษาไทย หากเมนูยังเป็นภาษาอังกฤษ ให้เช็คการติดตั้ง ModUnlocker ของคุณและตำแหน่งของโฟลเดอร์ว่าติดตั้งถูกต้องหรือไม่
 
+![Screenshot 2024-07-01 111209](https://github.com/Nasz/Nasz/assets/384751/77c302a6-3d32-4e4d-8463-191c7d393156){: width="723" height="286" }
+![Screenshot 2024-07-01 111419](https://github.com/Nasz/Nasz/assets/384751/fb6ed23b-cf47-4e59-9d3e-4c73ff055938){: width="678" height="381" }
+![Screenshot 2024-07-01 111454](https://github.com/Nasz/Nasz/assets/384751/f87964ae-7bdd-475e-9916-8b32ee59884b){: width="634" height="300" }
+
+
 #### วิธีถอนการติดตั้ง
   ลบไฟล์ `Medieval_Dynasty-WindowsNoEditor_TH.pak`{: .filepath} ออกจากโฟลเดอร์ `{SteamLibrary}\steamapps\common\Medieval Dynasty\Medieval_Dynasty\Content\Paks`{: .filepath}
 
