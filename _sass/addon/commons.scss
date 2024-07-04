@@ -1449,7 +1449,7 @@ search {
     }
 
     &:last-child:nth-child(odd) {
-      position: relative;
+      position: inherit;
       right: 24.3%;
     }
   }

@@ -150,9 +150,13 @@
         height: 11.55rem; // can hold 2 lines each for title and content
       }
 
+      .with-image {
+        width: calc(100% - 20rem);
+      }
+
       .card-body {
         min-height: 10.75rem;
-        padding: 1.75rem 1.75rem 1.25rem 1.75rem;
+        padding: 1.75rem 1.75rem 0.75rem 1.75rem;
 
         .card-text {
           display: inherit !important;
