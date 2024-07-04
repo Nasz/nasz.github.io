@@ -4,6 +4,7 @@ author: nasz
 date: 2024-04-27 15:33:00 +0700
 categories: [Localization, Mod]
 tags: [Game, Mod, Unreal, WIP]
+exclude: true
 ---
 ไฟล์ภาษาไทยสำหรับเกมส์ Manor Lords *ไม่รวม Mod Unlocker*
 

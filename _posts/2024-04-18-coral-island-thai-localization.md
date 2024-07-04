@@ -4,6 +4,7 @@ author: nasz
 date: 2024-04-18 15:39:00 +0700
 categories: [Localization, Mod]
 tags: [Game, Mod, Unreal, WIP]
+exclude: true
 ---
 ไฟล์ภาษาไทยสำหรับเกมส์ Coral Island *ไม่รวม Mod Unlocker*
 
