@@ -8,7 +8,6 @@ tail_includes:
   - post-nav
   - comments
 ---
-
 {% include lang.html %}
 
 <article class="px-1">
@@ -81,10 +80,11 @@ tail_includes:
           <!-- pageviews -->
           {% if site.pageviews.provider and site.analytics[site.pageviews.provider].id %}
             <span>
+              {{ site.data.locales[lang].post.pageview.prompt }}
               <em id="pageviews">
                 <i class="fas fa-spinner fa-spin small"></i>
               </em>
-              {{ site.data.locales[lang].post.pageview_measure }}
+              {{ site.data.locales[lang].post.pageview.measure }}
             </span>
           {% endif %}
 

@@ -45,7 +45,7 @@ copyright:
 meta: กำลังใช้ธีมของ :PLATFORM ชื่อ :THEME
 
 not_found:
-  statment: ขออภัย URL ที่คุณวางนั้นผิดพลาด หรือมันชี้ไปยังสิ่งที่ไม่มีอยู่
+  statement: ขออภัย URL ที่คุณวางนั้นผิดพลาด หรือมันชี้ไปยังสิ่งที่ไม่มีอยู่
 
 notification:
   update_found: เนื้อหามีเวอร์ชันใหม่
@@ -58,7 +58,9 @@ post:
   posted: โพสต์เมื่อ
   updated: อัปเดตเมื่อ
   words: คำ
-  pageview_measure: ครั้ง
+  pageview:
+    prompt: เข้าชม
+    measure: ครั้ง
   read_time:
     unit: นาที
     prompt: อ่าน
