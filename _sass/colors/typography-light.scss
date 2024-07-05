@@ -11,6 +11,7 @@
   /* Common color */
   --text-color: #34343c;
   --text-muted-color: #757575;
+  --text-muted-highlight-color: inherit;
   --heading-color: #2a2a2a;
   --label-color: #585858;
   --blockquote-border-color: #eeeeee;
@@ -62,6 +63,7 @@
 
   /* Posts */
   --toc-highlight: #0550ae;
+  --btn-share-color: gray;
   --btn-share-hover-color: var(--link-color);
   --card-bg: white;
   --card-hovor-bg: #e2e2e2;

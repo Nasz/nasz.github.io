@@ -88,9 +88,7 @@
     &:last-child li:last-child::before {
       height: 1.5rem;
     }
-  }
-
-  /* #archives ul */
+  } /* #archives ul */
 
   .date {
     white-space: nowrap;
@@ -135,16 +133,14 @@
       z-index: 1;
     }
   }
-}
-
-/* #archives */
+} /* #archives */
 
 @media all and (max-width: 576px) {
   #archives {
     margin-top: -1rem;
 
     ul {
-      letter-spacing: 0 !important;
+      letter-spacing: 0;
     }
   }
 }
