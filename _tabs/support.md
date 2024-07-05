@@ -1,8 +1,20 @@
 ---
 # the default layout is 'page'
-icon: fas fa-hand-holding-medical
+icon: fas fa-hand-peace
 order: 5
 ---
+
+## ร่วมมอบกำลังใจได้ตามช่องทางในแบนเนอร์ด้านล่าง
+
+ผ่านพร้อมเพย์จะทางตรงสุดครับ หากไม่แนบโน็ตมา ขออณุญาตใช้ข้อมูลเท่าที่มีนะครับ
+
+| รายนามผู้ร่วมส่งมอบกำลังใจ                                               |
+| ------------------------------------------------------------------------ |
+| <i class="fa fa-face-kiss-wink-heart"></i> มาเป็นคนแรกในรายนามนี้กันเถอะ |
+
+ขอบคุณทุกกำลังใจที่สนับสนุนให้การพัฒนาได้ไปต่อนะครับ
+
+![PromptPay](https://assets.naruebet.dev/img/PromptPay.webp){: w="184" h="234"}
 
 <div class="container text-center">
   <div class="row align-items-center">
@@ -17,9 +29,3 @@ order: 5
     </div>
   </div>
 </div>
-
- <br/>
-
-![PromptPay](https://assets.naruebet.dev/img/PromptPay.webp){: w="184" h="234"}
-
-ขอบคุณสำหรับการสนับสนุนให้การพัฒนาได้ไปต่อนะครับ

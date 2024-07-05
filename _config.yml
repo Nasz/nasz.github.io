@@ -47,18 +47,36 @@ social:
     - https://www.facebook.com/naruebet
     - https://www.linkedin.com/in/naruebet
 
-google_site_verification: mIjKWJN9Y2cLaB4tOrxuMGRBn9YqfCUcDLxslqJ8PH8 # fill in to your verification string
+# Site Verification Settings
+webmaster_verifications:
+  google: mIjKWJN9Y2cLaB4tOrxuMGRBn9YqfCUcDLxslqJ8PH8 #fill in your Google verification code
+  bing: # fill in your Bing verification code
+  alexa: # fill in your Alexa verification code
+  yandex: # fill in your Yandex verification code
+  baidu: # fill in your Baidu verification code
+  facebook: # fill in your Facebook verification code
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
-pageviews:
-  provider: goatcounter
-analytics:
-  goatcounter:
-    id: naruebet
 
-google_analytics:
-  id: G-65RSH4507J # fill in your Google Analytics ID
+# Web Analytics Settings
+analytics:
+  google:
+    id: G-65RSH4507J # fill in your Google Analytics ID
+  goatcounter:
+    id: naruebet # fill in your GoatCounter ID
+  umami:
+    id: # fill in your Umami ID
+    domain: # fill in your Umami domain
+  matomo:
+    id: # fill in your Matomo ID
+    domain: # fill in your Matomo domain
+  cloudflare:
+    id: # fill in your Cloudflare Web Analytics token
+
+# Pageviews settings
+pageviews:
+  provider: goatcounter # now only supports 'goatcounter'
 
 # Prefer color scheme setting.
 #
@@ -78,17 +96,22 @@ theme_mode: # [light | dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: https://assets.naruebet.dev
+cdn: https://assets.naruebet.dev
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://assets.naruebet.dev/img/naruebetdev.webp
+avatar: /img/naruebetdev.webp
+
+# The URL of the site-wide social preview image used in SEO `og:image` meta tag.
+# It can be overridden by a customized `page.image` in front matter.
+social_preview_image: # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
 
 comments:
-  active: giscus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
-  # The active options are as follows:
+  # Global switch for the post comment system. Keeping it empty means disabled.
+  provider: giscus # [disqus | utterances | giscus]
+  # The provider options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
@@ -112,7 +135,7 @@ assets:
     enabled: # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
-    env: production # [development|production]
+    env: # [development|production]
 
 pwa:
   enabled: true # the option for PWA feature (installable)
