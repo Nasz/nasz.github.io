@@ -4,7 +4,7 @@ description: "ม็อดภาษาไทยให้กับเกม Citie
 author: nasz
 date: 2023-09-09 19:56:00 +0700
 image:
-  path: https://github.com/Nasz/CS2THMod/assets/384751/9c5eb6fa-7199-427b-862c-0d55de8b5216
+  path: https://raw.githubusercontent.com/Nasz/CS2THMod/main/Properties/Thumbnail.png
   alt: "ภาษาไทยซิตีสกายไลน์ 2"
 categories: [Localization, Mod]
 tags: [Game, Mod, Unity, Community, WIP]
@@ -32,9 +32,9 @@ tags: [Game, Mod, Unity, Community, WIP]
 
 #### ภาพตัวอย่าง
 
-![image](https://github.com/Nasz/CS2THMod/assets/384751/dbc5b692-8ae9-4911-8d36-4185f8674eeb){: width="790" height="444" }
+![image](https://raw.githubusercontent.com/Nasz/CS2THMod/main/Properties/Screenshot/MainMenu.png){: width="790" height="444" }
 _หน้าเมนูหลัก_
-![image](https://github.com/Nasz/CS2THMod/assets/384751/72c6572d-0b3a-4153-9113-01bd3e006b6d){: width="790" height="444" }
+![image](https://raw.githubusercontent.com/Nasz/CS2THMod/main/Properties/Screenshot/Progression.jpg){: width="790" height="444" }
 _หน้าความก้าวหน้าในส่วนของแผนผังการพัฒนา_
 
 ## ความคืบหน้า

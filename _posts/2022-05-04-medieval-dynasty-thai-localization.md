@@ -4,7 +4,7 @@ description: "ไฟล์ภาษาไทยสำหรับเกมส์
 author: nasz
 date: 2023-08-19 14:41:00 +0700
 image:
-  path: https://github.com/Nasz/Nasz/assets/384751/ca23b688-9920-410c-b978-d8ac2368fe3c
+  path: https://staticdelivery.nexusmods.com/mods/3585/images/50/50-1720194031-848638757.png
   alt: "ม็อดภาษาไทยเกม Medeivel Dynasty"
 categories: [Localization, Mod]
 tags: [Game, Mod, Unreal, WIP]
