@@ -1,0 +1,18 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../jekyll-theme-chirpy"
+    },
+    {
+      "path": "../hamstersquad.github.io"
+    }
+  ],
+  "settings": {
+    "files.associations": {
+      "*.html": "liquid"
+    }
+  }
+}
