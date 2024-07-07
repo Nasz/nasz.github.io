@@ -11,7 +11,7 @@ tags: [Game, Mod, Unreal, WIP]
 ---
 
 > ใช้กับเกมที่ปลดล็อกม็อดแล้วเท่านั้น เกมต้องเป็นเวอร์ชัน 2.0.2.4 (6 March 2024) เท่านั้น ไม่ตรงเวอร์ชันไม่แนะนำให้ใช้
- {: .prompt-info }
+{: .prompt-info }
 
 ออกล่า เอาชีวิตรอด ก่อสร้างและนำทางผู้คนในยุคกลางอันโหดร้าย: สร้างตระกูลยุคกลางของคุณเองและส่งเสริมความเจริญรุ่งเรืองให้สืบต่อไปหรือไม่ก็ยอมตาย! เล่นคนเดียวหรือร่วมทีมกับเพื่อน ๆ เพื่อเพลิดเพลินไปกับประสบการณ์ขั้นสุดยอดของการใช้ชีวิตในยุคกลาง
 
@@ -35,9 +35,11 @@ tags: [Game, Mod, Unreal, WIP]
 
 ## ม็อดนี้ทำการตัดแปลงไฟล์ต่อไปนี้
 
-> Medieval_Dynasty/Content/Fonts/Kingthings_Petrock_Light_Pro.ufont
-> Medieval_Dynasty/Content/Fonts/Kingthings_Petrock_Pro.ufont
-> Medieval_Dynasty/Content/Localization/Game/en/Game.locres
+```text
+Medieval_Dynasty/Content/Fonts/Kingthings_Petrock_Light_Pro.ufont
+Medieval_Dynasty/Content/Fonts/Kingthings_Petrock_Pro.ufont
+Medieval_Dynasty/Content/Localization/Game/en/Game.locres
+```
 
 - โปรดตรวจสอบให้แน่ใจว่าไม่มีม็อดอื่นแก้ไขไฟล์ดังกล่าว มิเช่นนั้นม็อดอาจไม่ทำงานหรือทำงานผิดพผลาดได้
 
