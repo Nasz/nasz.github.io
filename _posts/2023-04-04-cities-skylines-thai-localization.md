@@ -1,5 +1,6 @@
 ---
-title: "Cities: Skylines Thai Localization"
+title: "Cities: Skylines Thai Mod"
+description: "ม็อดภาษาไทยสำหรับเกม ซิตีสกายไลน์ ภาษาไทย 100% สำหรับเกมเวอร์ชัน 1.17.1-f4"
 author: nasz
 date: 2023-04-04 13:04:00 +0700
 image:

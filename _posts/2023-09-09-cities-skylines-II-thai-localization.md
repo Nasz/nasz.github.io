@@ -1,11 +1,11 @@
 ---
-title: "Cities: Skylines II Thai Localization"
-description: "ม็อดภาษาไทยให้กับเกม Cities: Skylines II (ซิตี: สกายไลน์ ๒)"
+title: "Cities: Skylines II Thai Mod"
+description: "ม็อดภาษาไทยให้กับเกม ซิตีสกายไลน์ ๒"
 author: nasz
 date: 2023-09-09 19:56:00 +0700
 image:
   path: https://raw.githubusercontent.com/Nasz/CS2THMod/main/Properties/Thumbnail.png
-  alt: "ภาษาไทยซิตีสกายไลน์ 2"
+  alt: "ภาษาไทยซิตีสกายไลน์ ๒"
 categories: [Localization, Mod]
 tags: [Game, Mod, Unity, Community, WIP]
 ---
@@ -32,9 +32,9 @@ tags: [Game, Mod, Unity, Community, WIP]
 
 #### ภาพตัวอย่าง
 
-![image](https://raw.githubusercontent.com/Nasz/CS2THMod/main/Properties/Screenshot/MainMenu.png){: width="790" height="444" }
+![image](https://raw.githubusercontent.com/Nasz/CS2THMod/main/Properties/Screenshot/MainMenu.png){: w="790" h="444" }
 _หน้าเมนูหลัก_
-![image](https://raw.githubusercontent.com/Nasz/CS2THMod/main/Properties/Screenshot/Progression.jpg){: width="790" height="444" }
+![image](https://raw.githubusercontent.com/Nasz/CS2THMod/main/Properties/Screenshot/Progression.jpg){: w="790" h="444" }
 _หน้าความก้าวหน้าในส่วนของแผนผังการพัฒนา_
 
 ## ความคืบหน้า

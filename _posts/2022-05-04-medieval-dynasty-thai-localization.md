@@ -1,6 +1,6 @@
 ---
-title: Medieval Dynasty Thai Localization
-description: "ไฟล์ภาษาไทยสำหรับเกมส์ Medieval Dynasty (ไม่รวม Mod Unlocker)"
+title: Medieval Dynasty Thai Mod
+description: "ม็อดภาษาไทยสำหรับเกมส์ Medieval Dynasty สำหรับเกมเวอร์ชัน 2.0.2.x (ไม่รวมตัวปลดล็อกเกม)"
 author: nasz
 date: 2023-08-19 14:41:00 +0700
 image:
@@ -10,7 +10,7 @@ categories: [Localization, Mod]
 tags: [Game, Mod, Unreal, WIP]
 ---
 
-> ใช้กับเกมที่ปลดล็อกม็อดแล้วเท่านั้น เกมต้องเป็นเวอร์ชัน 2.0.2.4 (6 March 2024) เท่านั้น ไม่ตรงเวอร์ชันไม่แนะนำให้ใช้
+> ใช้กับเกมที่ปลดล็อกให้สามารถใช้ม็อดได้แล้วเท่านั้น เกมต้องเป็นเวอร์ชัน 2.0.2.4 (6 March 2024) เท่านั้น ไม่ตรงเวอร์ชันไม่แนะนำให้ใช้
 {: .prompt-info }
 
 ออกล่า เอาชีวิตรอด ก่อสร้างและนำทางผู้คนในยุคกลางอันโหดร้าย: สร้างตระกูลยุคกลางของคุณเองและส่งเสริมความเจริญรุ่งเรืองให้สืบต่อไปหรือไม่ก็ยอมตาย! เล่นคนเดียวหรือร่วมทีมกับเพื่อน ๆ เพื่อเพลิดเพลินไปกับประสบการณ์ขั้นสุดยอดของการใช้ชีวิตในยุคกลาง
@@ -21,11 +21,11 @@ tags: [Game, Mod, Unreal, WIP]
 
 #### ภาพตัวอย่าง
 
-![Screenshot 2024-07-04 164401](https://staticdelivery.nexusmods.com/mods/3585/images/50/50-1720086509-221066424.png){: width="790" height="444" }
-![Screenshot 2024-06-26 155448](https://staticdelivery.nexusmods.com/mods/3585/images/50/50-1717787627-1214892175.png){: width="790" height="444" }
-![Screenshot 2024-06-26 155521](https://staticdelivery.nexusmods.com/mods/3585/images/50/50-1719392326-1853094052.png){: width="790" height="444" }
-![Screenshot 2024-06-26 155609](https://staticdelivery.nexusmods.com/mods/3585/images/50/50-1719392326-1745635887.png){: width="790" height="444" }
-![Screenshot 2024-06-26 155640](https://staticdelivery.nexusmods.com/mods/3585/images/50/50-1719392332-1114305406.png){: width="790" height="444" }
+![Screenshot 2024-07-04 164401](https://staticdelivery.nexusmods.com/mods/3585/images/50/50-1720086509-221066424.png){: w="368" h="207" }<br />
+![Screenshot 2024-06-26 155448](https://staticdelivery.nexusmods.com/mods/3585/images/50/50-1717787627-1214892175.png){: w="368" h="207" .normal }
+![Screenshot 2024-06-26 155521](https://staticdelivery.nexusmods.com/mods/3585/images/50/50-1719392326-1853094052.png){: w="368" h="207" .normal }
+![Screenshot 2024-06-26 155609](https://staticdelivery.nexusmods.com/mods/3585/images/50/50-1719392326-1745635887.png){: w="368" h="207" .normal }
+![Screenshot 2024-06-26 155640](https://staticdelivery.nexusmods.com/mods/3585/images/50/50-1719392332-1114305406.png){: w="368" h="207" .normal }
 
 ## ความคืบหน้า
 
@@ -49,7 +49,7 @@ Medieval_Dynasty/Content/Localization/Game/en/Game.locres
 
 ## ดาวน์โหลด
 
-[Nexus Mods](https://www.nexusmods.com/medievaldynasty/mods/50)
+[Nexus Mods](https://www.nexusmods.com/medievaldynasty/mods/50) <br />
 [Github](https://github.com/Nasz/MedievalDynastyTHLocale/releases/latest)
 
 #### วิธีติดตั้ง

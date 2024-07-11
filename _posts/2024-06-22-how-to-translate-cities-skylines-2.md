@@ -1,5 +1,5 @@
 ---
-title: "How to Translate Cities: Skylines II"
+title: "How to localization Cities: Skylines II"
 author: nasz
 date: 2024-06-22 10:40:00 +0700
 categories: [Localization, Mod]

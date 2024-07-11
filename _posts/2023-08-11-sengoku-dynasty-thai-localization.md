@@ -1,5 +1,6 @@
 ---
-title: Sengoku Dynasty Thai Localization
+title: Sengoku Dynasty Thai Mod
+description: "ม็อดภาษาไทยสำหรับเกม เซนโกคุ ไดนาสตี้ ใช้กับเกมเวอร์ชัน 0.3.3.x"
 author: nasz
 date: 2023-08-11 00:34:00 +0700
 categories: [Localization, Mod]
@@ -13,7 +14,7 @@ tags: [Game, Mod, Unreal, WIP]
 สร้างและจัดการหมู่บ้านในเกมโอเพนเวิลด์ที่มีเรื่องราวอยู่ในยุคศักดินาของญี่ปุ่น สร้างตำนานของคุณเองด้วยการเอาชีวิตรอด สำรวจ และพบกับตัวละครที่มีเอกลักษณ์ นอกจากฉายเดี่ยวแล้ว ยังมีโหมดผู้เล่นหลายคนแบบร่วมมือกันอีกด้วย
 
 > โปรดใช้ไฟล์ที่ตรงกับเวอร์ชันเกมของคุณเท่านั้น เนื่องจากปัจจุบันมีผมทำอยู่แค่คนเดียวจึงขอสงวนสิทธิ์ในการเปิดเผยเอกสารงานแปลออกไปก่อนเป็นการชั่วคราว จนกว่าจะมีสมาชิกเพิ่มในจำนวนที่เหมาะสมนะครับ
-> {: .prompt-danger }
+{: .prompt-danger }
 
 #### วีดีโอตัวอย่าง
 
@@ -21,9 +22,9 @@ tags: [Game, Mod, Unreal, WIP]
 
 #### ภาพตัวอย่าง
 
-![Screenshot 2023-12-02 192553](https://staticdelivery.nexusmods.com/mods/5676/images/2/2-1701521376-38714346.png){: width="790" height="444" }
-![Screenshot 2023-12-02 192613](https://staticdelivery.nexusmods.com/mods/5676/images/2/2-1701521375-1481581956.png){: width="790" height="444" }
-![Screenshot 2023-12-02 192625](https://staticdelivery.nexusmods.com/mods/5676/images/2/2-1701521382-1707401573.png){: width="790" height="444" }
+![Screenshot 2023-12-02 192553](https://staticdelivery.nexusmods.com/mods/5676/images/2/2-1701521376-38714346.png){: width="368" height="207" }<br />
+![Screenshot 2023-12-02 192613](https://staticdelivery.nexusmods.com/mods/5676/images/2/2-1701521375-1481581956.png){: width="368" height="207" .normal}
+![Screenshot 2023-12-02 192625](https://staticdelivery.nexusmods.com/mods/5676/images/2/2-1701521382-1707401573.png){: width="368" height="207" .normal}
 
 #### Roadmap
 
