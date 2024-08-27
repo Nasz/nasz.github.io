@@ -7,8 +7,11 @@ image:
   path: https://staticdelivery.nexusmods.com/mods/3585/images/50/50-1720194031-848638757.png
   alt: "ม็อดภาษาไทยเกม Medeivel Dynasty"
 categories: [Localization, Mod]
-tags: [Game, Mod, Unreal, WIP]
+tags: [Game, Mod, Unreal, TAB]
 ---
+
+> Take a Break ม็อดนี้หยุดอัปเดตชั่วคราวครับ 
+{: .prompt-danger }
 
 > ใช้กับเกมที่ปลดล็อกให้สามารถใช้ม็อดได้แล้วเท่านั้น เกมต้องเป็นเวอร์ชัน 2.0.2.4 (6 March 2024) เท่านั้น ไม่ตรงเวอร์ชันไม่แนะนำให้ใช้
 {: .prompt-info }

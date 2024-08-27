@@ -7,8 +7,10 @@ image:
   path: https://i.ytimg.com/vi_webp/hBrTnAiihW8/maxresdefault.webp
   alt: "ม็อดภาษาไทยฮอกวอตส์เลกาซี"
 categories: [Localization, Mod]
-tags: [Game, Mod, Unreal, Community, WIP]
+tags: [Game, Mod, Unreal, Community, TAB]
 ---
+> Take a Break ม็อดนี้หยุดอัปเดตชั่วคราวครับ 
+{: .prompt-danger }
 
 Hogwarts Legacy เป็นเกมแอคชั่น RPG แนวโอเพนเวิลด์ที่ทำให้คุณได้ดื่มด่ำอย่างเต็มอิ่ม ด้วยการควบคุมตัวละครของคุณ และออกไปผจญภัยในโลกแห่งเวทมนตร์
 
