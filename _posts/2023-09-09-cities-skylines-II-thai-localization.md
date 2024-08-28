@@ -7,10 +7,8 @@ image:
   path: https://raw.githubusercontent.com/Nasz/CS2THMod/main/Properties/Thumbnail.png
   alt: "ภาษาไทยซิตีสกายไลน์ ๒"
 categories: [Localization, Mod]
-tags: [Game, Mod, Unity, Community, TAB]
+tags: [Game, Mod, Unity, Community]
 ---
-> Take a Break ม็อดนี้หยุดอัปเดตชั่วคราวครับ 
-{: .prompt-danger }
 
 ขยายเมืองตั้งแต่เริ่มต้นแลัวเปลี่ยนให้กลายเป็นมหานครที่เจริญรุ่งเรืองด้วยเกมเมืองที่สมจริงที่สุดเท่าที่เคยมีมา ผลักดันความคิดสร้างสรรค์และทักษะการแก้ปัญหาของคุณเพื่อสร้างในระดับที่คุณไม่เคยสัมผัสมาก่อน ด้วยการจําลองที่ลึกซึ้งและระบบเศรษฐศาสตร์ที่สมจริง การสร้างเมืองที่ไร้ขีดจํากัดกำลังรอคุณอยู่
 

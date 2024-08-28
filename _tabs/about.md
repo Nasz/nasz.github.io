@@ -4,24 +4,26 @@ icon: fas fa-info-circle
 order: 6
 ---
 
-I am Base, Live in Chiangmai. I work a full stack web developer around 21 Years.
+ผมชื่อเบศครับ เป็นคนเชียงใหม่โดยกำเนิด ปัจจุบันก็ยังอยู่ที่เชียงใหม่ครับ งานของผมวน ๆ เวียน ๆ เกี่ยวกับการเขียนโปรแกรมมากว่า 21 ปี
+ก็ตั้งแต่สมัยมัธยมแหละครับ บางครั้งก็เป็นนักประชาสัมพันธ์ แล้วก็มีอยู่ช่วงหนึ่งที่ได้เป็นนักข่าวสายไอที
 
-- My MBTI is [ISFP](https://www.16personalities.com/isfp-personality).
-- I’m working as a Website Development and Website Administrators.
-- Exploring technical for optimize my coding.
-- In my free time, I playing game and making some item like Translation Mod.
+- MBTI ของผมคือ [ISFP](https://www.16personalities.com/isfp-personality) หรือก็คือนักสำรวจที่ชอบความสันโดษ
+- ช่วงวัยรุ่นสนุกกับงานมากไปครับ เครียดไม่รู้ตัว มันสะสมจนทำให้โรคสะเก็ดเงินกำเริบ เกมเลย
+- ปัจจุบันเกษียรจากงานเขียนโปรแกรมแล้วครับ แต่ว่าก็ยังดูแลเว็บไซต์อยู่สองสามเว็บ
+- ยังเขียนโปรแกรมเป็นงานอดิเรกอยู่ มีอะไรใหม่ ๆ มาก็ยังอยากลองเขียนเล่นดูกะเขาบ้างครับ
+- เวลาว่างนอกจากการใช้ชีวิตประจำวันแล้วก็จะมานั่งเล่นเกม ดูหนัง ฟังเพลง นั่งทำม็อดภาษาไทย แต่ส่วนใหญ่จะป่วยนอนซมอยู่บนเตียงมากกว่า
 
-### My Stats
+### สถิติการใช้งาน Github ของผม
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Nasz&theme=dark){: width="495" height="195" }
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasz&layout=compact&theme=vision-friendly-dark){: width="300" height="165" }
 
-### [My Stack](https://stackshare.io/naruebet/my-stack#stack)
+### [Stack ที่เคยใช้](https://stackshare.io/naruebet/my-stack#stack) บางอันก็ยังใช้อยู่
 
 php, MySQL, HTML, Javascript, CSS, jQuery, Boostrap, SASS, Composer, Laravel, Moment.js, TypeScript, Windows, Linux, Ubuntu, Sementic UI, Material-UI, UIKit, Foundation, Google Analytics, Visual Studio Code, Visual Studio, Github, Google Fonts, Font Awesome, Google Adsense, CloudFlare, AWS and GCP
 
-## Currently managed website list
+## เว็บไซต์ที่ยังดูแลอยู่ (บางเว็บก็แค่ Deploy ครับเพราะเขาไม่ได้จ่ายค่าดูแล)
 
 | Project       | Domain                      | Service      | Since |
 | ------------- | :-------------------------- | :----------- | :---- |
@@ -52,12 +54,12 @@ php, MySQL, HTML, Javascript, CSS, jQuery, Boostrap, SASS, Composer, Laravel, Mo
 | Information System Webboard             | isbanetwork.net               | Administrator | 2007  | 2009  |
 | ศูนย์ส่งเสริมและพัฒนาอาชีวศึกษาภาคเหนือ | nsdv.go.th                    | Administrator | 2006  | 2007  |
 
-## Contact
+## ช่องทางติดต่อ (ไม่ธรรมชาติ)
 
-Email: naruebet@gmail.com <br />
-Phone: +66 87-189-2055
+อีเมล: naruebet@gmail.com <br />
+เบอร์โทร: +66 87-189-2055 สแกมไม่ต้องโทรมานะ
 
-## Social Network
+## Social Network (ช่องทางธรรมชาติ)
 
 - <https://www.facebook.com/naruebet>
 - <https://twitter.com/naruebet>

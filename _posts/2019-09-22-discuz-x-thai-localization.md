@@ -4,11 +4,8 @@ description: "โปรแกรมเว็บบอร์ดสำเร็จ
 author: nasz
 date: 2019-09-22 11:26:00 +0700
 categories: [Localization, CMS]
-tags: [PHP, CMS, Thai, BBS, TAB]
+tags: [PHP, CMS, Thai, BBS]
 ---
-
-> Take a Break ม็อดนี้หยุดอัปเดตชั่วคราวครับ 
-{: .prompt-danger }
 
 ![โลโก้เว็บบอร์ด](https://github.com/Nasz/DiscuzX/raw/master/upload/static/image/common/logo.svg){: width="200" height="102" }
 _เว็บบอร์ดสำเร็จรูป_
