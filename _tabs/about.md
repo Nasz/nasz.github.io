@@ -23,7 +23,9 @@ order: 6
 
 php, MySQL, HTML, Javascript, CSS, jQuery, Boostrap, SASS, Composer, Laravel, Moment.js, TypeScript, Windows, Linux, Ubuntu, Sementic UI, Material-UI, UIKit, Foundation, Google Analytics, Visual Studio Code, Visual Studio, Github, Google Fonts, Font Awesome, Google Adsense, CloudFlare, AWS and GCP
 
-## เว็บไซต์ที่ยังดูแลอยู่ (บางเว็บก็แค่ Deploy ครับเพราะเขาไม่ได้จ่ายค่าดูแล แต่อย่าไปยิงนะเดี่ยวต้องมานั่งปวดหลังแก้อีก)
+## เว็บไซต์ที่ยังดูแลอยู่
+
+(บางเว็บก็แค่ Deploy ครับเพราะเขาไม่ได้จ่ายค่าดูแล แต่อย่าไปยิงนะเดี่ยวต้องมานั่งแก้จนปวดหลังอีก)
 
 | Project       | Domain                      | Service      | Since |
 | ------------- | :-------------------------- | :----------- | :---- |
@@ -55,6 +57,8 @@ php, MySQL, HTML, Javascript, CSS, jQuery, Boostrap, SASS, Composer, Laravel, Mo
 | ศูนย์ส่งเสริมและพัฒนาอาชีวศึกษาภาคเหนือ | nsdv.go.th                    | Administrator | 2006  | 2007  |
 
 ## ช่องทางติดต่อ (ไม่ธรรมชาติ)
+
+เฉพาะคนรู้จักนะครับ ใครอยู่ ๆ ติดต่อมาอาจจะไปอยู่ในเมลขยะหรือไม่ก็โทรไม่ติดนะ
 
 อีเมล: naruebet@gmail.com <br />
 เบอร์โทร: +66 87-189-2055 (พวกสแกมไม่ต้องโทรมานะ)
