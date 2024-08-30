@@ -3,10 +3,6 @@
 # Import the theme
 theme: jekyll-theme-chirpy
 
-# Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
-# and doesn't have a custom domain.
-baseurl: ""
-
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
@@ -25,7 +21,8 @@ tagline: ยินดีต้อนรับเข้าสู่บล็อ�
 description: >- # used by seo meta and the atom feed
   เว็บบล็อกที่แบ่งปันเรื่องราวเกี่ยวกับการเขียนโค๊ตและผลงานต่าง ๆ ของผม
 
-# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
+# Fill in the protocol & hostname for your site.
+# E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://naruebet.dev"
 
 github:
@@ -73,8 +70,10 @@ analytics:
     domain: # fill in your Matomo domain
   cloudflare:
     id: # fill in your Cloudflare Web Analytics token
+  fathom:
+    id: # fill in your Fathom Site ID
 
-# Pageviews settings
+# Page views settings
 pageviews:
   provider: goatcounter # now only supports 'goatcounter'
 
@@ -89,11 +88,11 @@ pageviews:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: dark # [light | dark]
 
-# The CDN endpoint for images.
+# The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
-# will be added to all image (site avatar & posts' images) paths starting with '/'
+# will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
 cdn: https://assets.naruebet.dev
@@ -109,7 +108,7 @@ social_preview_image: # string, local or CORS resources
 toc: true
 
 comments:
-  # Global switch for the post comment system. Keeping it empty means disabled.
+  # Global switch for the post-comment system. Keeping it empty means disabled.
   provider: giscus # [disqus | utterances | giscus]
   # The provider options are as follows:
   disqus:
@@ -120,14 +119,15 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: "Nasz/Nasz" # <gh-username>/<repo>
-    repo_id: "R_kgDOKNrA2g"
-    category: "General"
-    category_id: "DIC_kwDOKNrA2s4CZzA-"
-    mapping: "pathname" # optional, default to 'pathname'
-    input_position: "bottom" # optional, default to 'bottom'
-    lang: "th" # optional, default to the value of `site.lang`
-    reactions_enabled: "1" # optional, default to the value of `1`
+    repo: Nasz/Nasz # <gh-username>/<repo>
+    repo_id: R_kgDOKNrA2g
+    category: General
+    category_id: DIC_kwDOKNrA2s4CZzA-
+    mapping: # optional, default to 'pathname'
+    strict: # optional, default to '0'
+    input_position: # optional, default to 'bottom'
+    lang: th # optional, default to the value of `site.lang`
+    reactions_enabled: # optional, default to the value of `1`
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
 assets:
@@ -135,10 +135,10 @@ assets:
     enabled: # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
-    env: # [development|production]
+    env: # [development | production]
 
 pwa:
-  enabled: true # the option for PWA feature (installable)
+  enabled: true # The option for PWA feature (installable)
   cache:
     enabled: true # The option for PWA offline cache
     # Paths defined here will be excluded from the PWA cache.
@@ -148,6 +148,9 @@ pwa:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
 paginate: 10
+
+# The base URL of your site
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
@@ -167,9 +170,6 @@ collections:
   tabs:
     output: true
     sort_by: order
-  app:
-    output: true
-    permalink: /:name
 
 defaults:
   - scope:
@@ -192,14 +192,6 @@ defaults:
     values:
       layout: page
       permalink: /:title/
-  - scope:
-      path: assets/img/favicons
-    values:
-      swcache: true
-  - scope:
-      path: assets/js/dist
-    values:
-      swcache: true
 
 sass:
   style: compressed
