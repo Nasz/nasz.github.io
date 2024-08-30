@@ -16,6 +16,8 @@
   "settings": {
     "files.associations": {
       "*.html": "liquid"
-    }
+    },
+    "docker.make-runbook.openai-base": "Ollama",
+    "CodeGPT.apiKey": "Ollama"
   }
 }
