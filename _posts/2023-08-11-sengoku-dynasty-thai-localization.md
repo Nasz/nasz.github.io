@@ -3,6 +3,10 @@ title: Sengoku Dynasty Thai Mod
 description: "ม็อดภาษาไทยสำหรับเกม เซนโกคุ ไดนาสตี้ ใช้กับเกมเวอร์ชัน 0.3.3.x"
 author: nasz
 date: 2023-08-11 00:34:00 +0700
+image:
+  path: /img/covers/sengoku-dynasty-thai.webp
+  lqip: /img/covers/sengoku-dynasty-thai-lqip.webp
+  alt: "ม็อดภาษาไทย เซนโกคุ ไดนาสตี้"
 categories: [Localization, Mod]
 tags: [Game, Mod, Unreal]
 ---
@@ -16,15 +20,11 @@ tags: [Game, Mod, Unreal]
 > โปรดใช้ไฟล์ที่ตรงกับเวอร์ชันเกมของคุณเท่านั้น เนื่องจากปัจจุบันมีผมทำอยู่แค่คนเดียวจึงขอสงวนสิทธิ์ในการเปิดเผยเอกสารงานแปลออกไปก่อนเป็นการชั่วคราว จนกว่าจะมีสมาชิกเพิ่มในจำนวนที่เหมาะสมนะครับ
 {: .prompt-danger }
 
-#### วีดีโอตัวอย่าง
-
-{% include embed/youtube.html id='AmuFkg2h3dU' %}
-
 #### ภาพตัวอย่าง
 
-![Screenshot 2023-12-02 192553](https://staticdelivery.nexusmods.com/mods/5676/images/2/2-1701521376-38714346.png){: width="368" height="207" }<br />
-![Screenshot 2023-12-02 192613](https://staticdelivery.nexusmods.com/mods/5676/images/2/2-1701521375-1481581956.png){: width="368" height="207" .normal}
-![Screenshot 2023-12-02 192625](https://staticdelivery.nexusmods.com/mods/5676/images/2/2-1701521382-1707401573.png){: width="368" height="207" .normal}
+![dynasty](/img/contents/sengoku-dynasty-thai/dynasty.webp){: w="790" h="444" }
+![map](/img/contents/sengoku-dynasty-thai/map.webp){: w="790" h="444" }
+![legend](/img/contents/sengoku-dynasty-thai/legend.webp){: w="790" h="444" }
 
 #### Roadmap
 

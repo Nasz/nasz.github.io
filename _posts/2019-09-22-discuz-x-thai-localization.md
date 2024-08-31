@@ -3,6 +3,10 @@ title: Discuz! X Thai Version
 description: "โปรแกรมเว็บบอร์ดสำเร็จรูป ดิสคัซ! เอ็กซ์ ภาษาไทย บิลท์ล่าสุด 2024-05-20"
 author: nasz
 date: 2019-09-22 11:26:00 +0700
+image:
+  path: /img/covers/discuz-x-thai.webp
+  lqip: /img/covers/discuz-x-thai-lqip.webp
+  alt: "ดิสคัซ! เอ็กซ์ ภาษาไทย"
 categories: [Localization, CMS]
 tags: [PHP, CMS, Thai, BBS]
 ---

@@ -4,8 +4,9 @@ description: "ม็อดภาษาไทยสำหรับเกมส์
 author: nasz
 date: 2023-08-19 14:41:00 +0700
 image:
-  path: https://staticdelivery.nexusmods.com/mods/3585/images/50/50-1720194031-848638757.png
-  alt: "ม็อดภาษาไทยเกม Medeivel Dynasty"
+  path: /img/covers/medieval-dynasty-thai.webp
+  lqip: /img/covers/medieval-dynasty-thai-lqip.webp
+  alt: "ม็อดภาษาไทย Medeivel Dynasty"
 categories: [Localization, Mod]
 tags: [Game, Mod, Unreal]
 ---
@@ -21,11 +22,11 @@ tags: [Game, Mod, Unreal]
 
 #### ภาพตัวอย่าง
 
-![Screenshot 2024-07-04 164401](https://staticdelivery.nexusmods.com/mods/3585/images/50/50-1720086509-221066424.png){: w="368" h="207" }<br />
-![Screenshot 2024-06-26 155448](https://staticdelivery.nexusmods.com/mods/3585/images/50/50-1717787627-1214892175.png){: w="368" h="207" .normal }
-![Screenshot 2024-06-26 155521](https://staticdelivery.nexusmods.com/mods/3585/images/50/50-1719392326-1853094052.png){: w="368" h="207" .normal }
-![Screenshot 2024-06-26 155609](https://staticdelivery.nexusmods.com/mods/3585/images/50/50-1719392326-1745635887.png){: w="368" h="207" .normal }
-![Screenshot 2024-06-26 155640](https://staticdelivery.nexusmods.com/mods/3585/images/50/50-1719392332-1114305406.png){: w="368" h="207" .normal }
+![coopmarket](/img/contents/medieval-dynasty-thai/market.webp){: w="790" h="444" }
+![inventory](/img/contents/medieval-dynasty-thai/inventory.webp){: w="790" h="444" }
+![management](/img/contents/medieval-dynasty-thai/management.webp){: w="790" h="444" }
+![technology](/img/contents/medieval-dynasty-thai/technology.webp){: w="790" h="444" }
+![knowledge](/img/contents/medieval-dynasty-thai/knowledge.webp){: w="790" h="444" }
 
 ## ความคืบหน้า
 

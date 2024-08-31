@@ -3,6 +3,10 @@ title: Bellwright Thai Mod
 description: "ม็อดภาษาไทยสำหรับเกม Bellwright สำหรับเกมเวอร์ชัน 27 May 2024 (ไม่รวมตัวปลดล็อกเกม)"
 author: nasz
 date: "2023-08-24 17:30:00 +0700"
+image:
+  path: /img/covers/bellwright-thai.webp
+  lqip: /img/covers/bellwright-thai-lqip.webp
+  alt: "ม็อดภาษาไทย Bellwright"
 categories: [Localization, Mod]
 tags: [Game, Mod, Unreal]
 ---
@@ -14,9 +18,8 @@ tags: [Game, Mod, Unreal]
 
 #### ภาพตัวอย่าง
 
-![1716787071](https://staticdelivery.nexusmods.com/mods/6381/images/57/57-1716787071-125534502.png){: width="368" height="207" }<br />
-![1716787317](https://staticdelivery.nexusmods.com/mods/6381/images/57/57-1716787317-2087032575.png){: width="368" height="207" .normal }
-![1716787441](https://staticdelivery.nexusmods.com/mods/6381/images/57/57-1716787441-449170608.png){: width="368" height="207" .normal }
+![Lore](/img/contents/bellwright-thai/lore.webp){: w="790" h="444" }
+![Villager](/img/contents/bellwright-thai/villager.webp){: w="790" h="444" }
 
 ## ความคืบหน้า
 

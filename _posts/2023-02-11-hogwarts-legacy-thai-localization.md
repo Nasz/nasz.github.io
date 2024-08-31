@@ -4,7 +4,8 @@ description: "ม็อดภาษาไทยสำหรับเกม Hogwa
 author: nasz
 date: 2023-02-11 20:55:00 +0700
 image:
-  path: https://i.ytimg.com/vi_webp/hBrTnAiihW8/maxresdefault.webp
+  path: /img/covers/hogwarts-legacy-thai.webp
+  lqip: /img/covers/hogwarts-legacy-thai-lqip.webp
   alt: "ม็อดภาษาไทยฮอกวอตส์เลกาซี"
 categories: [Localization, Mod]
 tags: [Game, Mod, Unreal, Community]
