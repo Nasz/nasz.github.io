@@ -47,11 +47,11 @@ social:
 # Site Verification Settings
 webmaster_verifications:
   google: mIjKWJN9Y2cLaB4tOrxuMGRBn9YqfCUcDLxslqJ8PH8 #fill in your Google verification code
-  bing: # fill in your Bing verification code
+  bing: 8B54C9C3320BF087B0285C1C99BC7570 # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
   baidu: # fill in your Baidu verification code
-  facebook: # fill in your Facebook verification code
+  facebook: zfyvma8vqmm4mh8syvslsosisc1iyy # fill in your Facebook verification code
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
@@ -88,7 +88,7 @@ pageviews:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark # [light | dark]
+theme_mode: # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url

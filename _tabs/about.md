@@ -19,7 +19,7 @@ order: 6
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nasz&layout=compact&theme=vision-friendly-dark){: width="300" height="165" }
 
-### [Stack ที่เคยใช้](https://stackshare.io/naruebet/my-stack#stack) (บางอันก็ยังใช้อยู่)
+### [Stack ที่เคยใช้](https://stackshare.io/naruebet/my-stack#stack) (ส่วนใหญ่ยังใช้อยู่)
 
 php, MySQL, HTML, Javascript, CSS, jQuery, Boostrap, SASS, Composer, Laravel, Moment.js, TypeScript, Windows, Linux, Ubuntu, Sementic UI, Material-UI, UIKit, Foundation, Google Analytics, Visual Studio Code, Visual Studio, Github, Google Fonts, Font Awesome, Google Adsense, CloudFlare, AWS and GCP
 
