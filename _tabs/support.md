@@ -5,10 +5,10 @@ icon: fas fa-hand-peace
 order: 5
 ---
 
-คุณสามารถส่งกำลังใจเป็นค่าตัดแว่น ค่าน้ำชา ค่าฟิลเตอร์กรองอากาศ ฯลฯ
+คุณสามารถส่งกำลังใจเป็นค่าตัดแว่น ค่าน้ำชา ค่าฟิลเตอร์กรองอากาศ ฯลฯ โดยกรอกหมายเลขพร้อมเพย์หรือแสกนคิวอาร์โค๊ดด้านล่าง
 
 PromptPay: 0871892055 <br />
-TrueMoney: 0871892055
+[TrueMoney](https://tmn.app.link/4Z175xg9BMb): 0871892055
 
 ![PromptPay](https://assets.naruebet.dev/img/PromptPay.webp){: w="184" h="234"}
 
