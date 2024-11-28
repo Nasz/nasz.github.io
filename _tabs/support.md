@@ -10,6 +10,6 @@ order: 5
 PromptPay: 0871892055 <br />
 [TrueMoney](https://tmn.app.link/4Z175xg9BMb): 0871892055
 
-![PromptPay](https://assets.naruebet.dev/img/PromptPay.webp){: w="184" h="234"}
+![PromptPay](https://assets.naruebet.dev/img/PromptPay-14.webp){: w="172" h="172"}
 
 ขอบคุณทุกกำลังใจที่ส่งให้กันครับ
