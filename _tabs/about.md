@@ -25,13 +25,13 @@ php, MySQL, HTML, Javascript, CSS, jQuery, Boostrap, SASS, Composer, Laravel, Mo
 
 ## เว็บไซต์ที่ยังดูแลอยู่
 
-(บางเว็บก็แค่ Deploy ครับเพราะเขาไม่ได้จ่ายค่าดูแล แต่อย่าไปยิงนะเดี่ยวต้องมานั่งแก้จนปวดหลังอีก)
+(บางเว็บผมก็แค่เป็น Deploy ให้เขาเฉย ๆ นะครับ ไม่รับค่าจ้างดูแล ฉะนั้นอย่าไปยิงนะเดี่ยวต้องมานั่งแก้จนปวดหลังอีก)
 
 | Project       | Domain                      | Service      | Since |
 | ------------- | :-------------------------- | :----------- | :---- |
 | Talk Trendy   | <https://talktrendy.net>    | Full Service | 2019  |
 | Discuz!XYNC   | <https://discuzxync.com>    | Full Service | 2015  |
-| Eureka School | <https://eureka-school.com> | Coordinate   | 2020  |
+| Eureka School | <https://eureka-school.com> | Deployer     | 2020  |
 
 ## โพรเจกต์ ที่ผ่าน ๆ มา (ไม่ได้ดูแลแล้วนะครับ ยิงได้เต็มที่ อิอิ)
 
