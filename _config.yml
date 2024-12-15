@@ -16,7 +16,7 @@ timezone: Asia/Bangkok
 
 title: Naruebet.dev # the main title
 
-tagline: ยินดีต้อนรับเข้าสู่บล็อกน้อย ๆ ของผม # it will display as the sub-title
+tagline: ยินดีต้อนรับเข้าสู่บล็อกน้อย ๆ ของผม # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   เว็บบล็อกที่แบ่งปันเรื่องราวเกี่ยวกับการเขียนโค๊ตและผลงานต่าง ๆ ของผม
@@ -98,7 +98,9 @@ theme_mode: # [light | dark]
 cdn: "https://assets.naruebet.dev"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/img/naruebetdev.webp"
+avatar:
+  light: "/img/naruebetdev.webp"
+  dark: "/img/naruebetdev.webp"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

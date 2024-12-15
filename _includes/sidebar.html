@@ -4,10 +4,14 @@
   <header class="profile-wrapper">
     <a href="{{ '/' | relative_url }}" id="avatar">
       {%- if site.avatar != empty and site.avatar -%}
-        {%- capture avatar_url -%}
-          {% include media-url.html src=site.avatar %}
+        {%- capture avatar_url_light -%}
+          {% include media-url.html src=site.avatar.light %}
         {%- endcapture -%}
-        <img src="{{- avatar_url -}}" width="208" height="96" alt="avatar" onerror="this.style.display='none'">
+        <img src="{{- avatar_url_light -}}" width="208" height="96" alt="avatar" class="dark" onerror="this.style.display='none'">
+        {%- capture avatar_url_dark -%}
+          {% include media-url.html src=site.avatar.dark %}
+        {%- endcapture -%}
+        <img src="{{- avatar_url_dark -}}" width="208" height="96" alt="avatar" class="light" style="filter:invert(1)" onerror="this.style.display='none'">
       {%- endif -%}
     </a>
   </header>
