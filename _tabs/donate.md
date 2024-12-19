@@ -20,7 +20,7 @@ PromptPay: 0871892055 <br />
 
 ![PromptPay](https://assets.naruebet.dev/img/PromptPay-14.webp){: w="172" h="172"}
 
-<br>
+<br />
 รับบริจากเป็น Crypto โดยผ่านที่อยู่ต่อไปนี้
 
 Bitcoin (BTC) Address
@@ -34,7 +34,7 @@ Etherium (ETH) Address
   \* Address นี้รองรับการรับ KUB ผ่าน Bitkub Chain และ BNB ผ่าน Binance Smart Chain
 
 ช่วยหน่อยนะครับ 10 บาท 20 บาท ก็ส่งมาเถอะครับ!
-ขอบคุณทุกกำลังใจที่ส่งให้กันครับ
+ขอบคุณทุกกำลังใจที่ส่งให้กันครับ <br />
 Thank you for your support!
 
 | ขอขอบคุณผู้บริจาค      |
